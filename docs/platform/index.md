@@ -1,0 +1,522 @@
+# Claude Platform Documentation
+
+> Anthropic Claude Platform API/SDK 官方文档镜像，包含 Messages API、Agent SDK、Tool Use 等完整参考。
+
+This is a mirror of the [Claude Platform documentation](https://platform.claude.com/docs).
+
+**Source**: [sitemap.xml](https://platform.claude.com/sitemap.xml)
+
+---
+
+## Getting Started
+
+- [Get started with Claude](get-started.md) - Make your first API call to Claude and build a simple web search assistant
+- [Intro to Claude](intro.md) - Claude is a highly performant, trustworthy, and intelligent AI platform built by Anthropic. Claude excels at tasks involving language, reasoning, analysis, coding, and more.
+
+## About Claude
+
+- [Choosing the right model](about-claude/models/choosing-a-model.md) - Selecting the optimal Claude model for your application involves balancing three key considerations: capabilities, speed, and cost. This guide helps you make an informed decision based on your specific requirements.
+- [Content moderation](about-claude/use-case-guides/content-moderation.md) - Content moderation is a critical aspect of maintaining a safe, respectful, and productive environment in digital applications. In this guide, we'll discuss how Claude can be used to moderate content within your digital application.
+- [Customer support agent](about-claude/use-case-guides/customer-support-chat.md) - This guide walks through how to leverage Claude's advanced conversational capabilities to handle customer inquiries in real time, providing 24/7 support, reducing wait times, and managing high support volumes with accurate responses and positive interactions.
+- [Glossary](about-claude/glossary.md) - These concepts are not unique to Anthropic’s language models, but we present a brief summary of key terms below.
+- [Legal summarization](about-claude/use-case-guides/legal-summarization.md) - This guide walks through how to leverage Claude's advanced natural language processing capabilities to efficiently summarize legal documents, extracting key information and expediting legal research. With Claude, you can streamline the review of contracts, litigation prep, and regulatory work, saving time and ensuring accuracy in your legal processes.
+- [Migrating to Claude 4.5](about-claude/models/migrating-to-claude-4.md)
+- [Model deprecations](about-claude/model-deprecations.md)
+- [Models overview](about-claude/models/overview.md) - Claude is a family of state-of-the-art large language models developed by Anthropic. This guide introduces our models and compares their performance.
+- [Pricing](about-claude/pricing.md) - Learn about Anthropic's pricing structure for models and features
+- [Ticket routing](about-claude/use-case-guides/ticket-routing.md) - This guide walks through how to harness Claude's advanced natural language understanding capabilities to classify customer support tickets at scale based on customer intent, urgency, prioritization, customer profile, and more.
+- [What's new in Claude 4.5](about-claude/models/whats-new-claude-4-5.md)
+
+## Build With Claude
+
+- [Admin API overview](build-with-claude/administration-api.md)
+- [Automatically generate first draft prompt templates](build-with-claude/prompt-engineering/prompt-generator.md)
+- [Batch processing](build-with-claude/batch-processing.md)
+- [Be clear, direct, and detailed](build-with-claude/prompt-engineering/be-clear-and-direct.md)
+- [Building with extended thinking](build-with-claude/extended-thinking.md)
+- [Chain complex prompts for stronger performance](build-with-claude/prompt-engineering/chain-prompts.md)
+- [Citations](build-with-claude/citations.md)
+- [Claude Code Analytics API](build-with-claude/claude-code-analytics-api.md) - Programmatically access your organization's Claude Code usage analytics and productivity metrics with the Claude Code Analytics Admin API.
+- [Claude in Microsoft Foundry](build-with-claude/claude-in-microsoft-foundry.md) - Access Claude models through Microsoft Foundry with Azure-native endpoints and authentication.
+- [Claude on Amazon Bedrock](build-with-claude/claude-on-amazon-bedrock.md) - Anthropic's Claude models are now generally available through Amazon Bedrock.
+- [Claude on Vertex AI](build-with-claude/claude-on-vertex-ai.md) - Anthropic's Claude models are now generally available through [Vertex AI](https://cloud.google.com/vertex-ai).
+- [Context editing](build-with-claude/context-editing.md) - Automatically manage conversation context as it grows with context editing.
+- [Context windows](build-with-claude/context-windows.md)
+- [Effort](build-with-claude/effort.md) - Control how many tokens Claude uses when responding with the effort parameter, trading off between response thoroughness and token efficiency.
+- [Embeddings](build-with-claude/embeddings.md) - Text embeddings are numerical representations of text that enable measuring semantic similarity. This guide introduces embeddings, their applications, and how to use embedding models for tasks like search, recommendations, and anomaly detection.
+- [Extended thinking tips](build-with-claude/prompt-engineering/extended-thinking-tips.md)
+- [Features overview](build-with-claude/overview.md) - Explore Claude's advanced features and capabilities.
+- [Files API](build-with-claude/files.md)
+- [Giving Claude a role with a system prompt](build-with-claude/prompt-engineering/system-prompts.md)
+- [Let Claude think (chain of thought prompting) to increase performance](build-with-claude/prompt-engineering/chain-of-thought.md)
+- [Long context prompting tips](build-with-claude/prompt-engineering/long-context-tips.md)
+- [Multilingual support](build-with-claude/multilingual-support.md) - Claude excels at tasks across multiple languages, maintaining strong cross-lingual performance relative to English.
+- [PDF support](build-with-claude/pdf-support.md) - Process PDFs with Claude. Extract text, analyze charts, and understand visual content from your documents.
+- [Prefill Claude's response for greater output control](build-with-claude/prompt-engineering/prefill-claudes-response.md)
+- [Prompt caching](build-with-claude/prompt-caching.md)
+- [Prompt engineering overview](build-with-claude/prompt-engineering/overview.md)
+- [Prompting best practices](build-with-claude/prompt-engineering/claude-4-best-practices.md)
+- [Search results](build-with-claude/search-results.md) - Enable natural citations for RAG applications by providing search results with source attribution
+- [Streaming Messages](build-with-claude/streaming.md)
+- [Structured outputs](build-with-claude/structured-outputs.md) - Get validated JSON results from agent workflows
+- [Token counting](build-with-claude/token-counting.md)
+- [Usage and Cost API](build-with-claude/usage-cost-api.md) - Programmatically access your organization's API usage and cost data with the Usage & Cost Admin API.
+- [Use XML tags to structure your prompts](build-with-claude/prompt-engineering/use-xml-tags.md)
+- [Use examples (multishot prompting) to guide Claude's behavior](build-with-claude/prompt-engineering/multishot-prompting.md)
+- [Use our prompt improver to optimize your prompts](build-with-claude/prompt-engineering/prompt-improver.md)
+- [Use prompt templates and variables](build-with-claude/prompt-engineering/prompt-templates-and-variables.md)
+- [Using Agent Skills with the API](build-with-claude/skills-guide.md) - Learn how to use Agent Skills to extend Claude's capabilities through the API.
+- [Using the Messages API](build-with-claude/working-with-messages.md) - Practical patterns and examples for using the Messages API effectively
+- [Vision](build-with-claude/vision.md) - Claude's vision capabilities allow it to understand and analyze images, opening up exciting possibilities for multimodal interaction.
+- [Workspaces](build-with-claude/workspaces.md) - Organize API keys, manage team access, and control costs with workspaces.
+
+## Agents And Tools
+
+- [Agent Skills](agents-and-tools/agent-skills/overview.md) - Agent Skills are modular capabilities that extend Claude's functionality. Each Skill packages instructions, metadata, and optional resources (scripts, templates) that Claude uses automatically when relevant.
+- [Bash tool](agents-and-tools/tool-use/bash-tool.md)
+- [Code execution tool](agents-and-tools/tool-use/code-execution-tool.md)
+- [Computer use tool](agents-and-tools/tool-use/computer-use-tool.md)
+- [Fine-grained tool streaming](agents-and-tools/tool-use/fine-grained-tool-streaming.md)
+- [Get started with Agent Skills in the API](agents-and-tools/agent-skills/quickstart.md) - Learn how to use Agent Skills to create documents with the Claude API in under 10 minutes.
+- [How to implement tool use](agents-and-tools/tool-use/implement-tool-use.md)
+- [MCP connector](agents-and-tools/mcp-connector.md)
+- [Memory tool](agents-and-tools/tool-use/memory-tool.md)
+- [Programmatic tool calling](agents-and-tools/tool-use/programmatic-tool-calling.md)
+- [Remote MCP servers](agents-and-tools/remote-mcp-servers.md)
+- [Skill authoring best practices](agents-and-tools/agent-skills/best-practices.md) - Learn how to write effective Skills that Claude can discover and use successfully.
+- [Skills for enterprise](agents-and-tools/agent-skills/enterprise.md) - Governance, security review, evaluation, and organizational guidance for deploying Agent Skills at enterprise scale.
+- [Text editor tool](agents-and-tools/tool-use/text-editor-tool.md)
+- [Tool search tool](agents-and-tools/tool-use/tool-search-tool.md)
+- [Tool use with Claude](agents-and-tools/tool-use/overview.md)
+- [Web fetch tool](agents-and-tools/tool-use/web-fetch-tool.md)
+- [Web search tool](agents-and-tools/tool-use/web-search-tool.md)
+
+## Agent Sdk
+
+- [Agent SDK overview](agent-sdk/overview.md) - Build production AI agents with Claude Code as a library
+- [Agent SDK reference - Python](agent-sdk/python.md) - Complete API reference for the Python Agent SDK, including all functions, types, and classes.
+- [Agent SDK reference - TypeScript](agent-sdk/typescript.md) - Complete API reference for the TypeScript Agent SDK, including all functions, types, and interfaces.
+- [Agent Skills in the SDK](agent-sdk/skills.md) - Extend Claude with specialized capabilities using Agent Skills in the Claude Agent SDK
+- [Configure permissions](agent-sdk/permissions.md) - Control how your agent uses tools with permission modes, hooks, and declarative allow/deny rules.
+- [Connect to external tools with MCP](agent-sdk/mcp.md) - Configure MCP servers to extend your agent with external tools. Covers transport types, tool search for large tool sets, authentication, and error handling.
+- [Custom Tools](agent-sdk/custom-tools.md) - Build and integrate custom tools to extend Claude Agent SDK functionality
+- [Get structured output from agents](agent-sdk/structured-outputs.md) - Return validated JSON from agent workflows using JSON Schema, Zod, or Pydantic. Get type-safe, structured data after multi-turn tool use.
+- [Handle approvals and user input](agent-sdk/user-input.md) - Surface Claude's approval requests and clarifying questions to users, then return their decisions to the SDK.
+- [Hosting the Agent SDK](agent-sdk/hosting.md) - Deploy and host Claude Agent SDK in production environments
+- [Intercept and control agent behavior with hooks](agent-sdk/hooks.md) - Intercept and customize agent behavior at key execution points with hooks
+- [Migrate to Claude Agent SDK](agent-sdk/migration-guide.md) - Guide for migrating the Claude Code TypeScript and Python SDKs to the Claude Agent SDK
+- [Modifying system prompts](agent-sdk/modifying-system-prompts.md) - Learn how to customize Claude's behavior by modifying system prompts using three approaches - output styles, systemPrompt with append, and custom system prompts.
+- [Plugins in the SDK](agent-sdk/plugins.md) - Load custom plugins to extend Claude Code with commands, agents, skills, and hooks through the Agent SDK
+- [Quickstart](agent-sdk/quickstart.md) - Get started with the Python or TypeScript Agent SDK to build AI agents that work autonomously
+- [Rewind file changes with checkpointing](agent-sdk/file-checkpointing.md) - Track file changes during agent sessions and restore files to any previous state
+- [Securely deploying AI agents](agent-sdk/secure-deployment.md) - A guide to securing Claude Code and Agent SDK deployments with isolation, credential management, and network controls
+- [Session Management](agent-sdk/sessions.md) - Understanding how the Claude Agent SDK handles sessions and session resumption
+- [Slash Commands in the SDK](agent-sdk/slash-commands.md) - Learn how to use slash commands to control Claude Code sessions through the SDK
+- [Stream responses in real-time](agent-sdk/streaming-output.md) - Get real-time responses from the Agent SDK as text and tool calls stream in
+- [Streaming Input](agent-sdk/streaming-vs-single-mode.md) - Understanding the two input modes for Claude Agent SDK and when to use each
+- [Subagents in the SDK](agent-sdk/subagents.md) - Define and invoke subagents to isolate context, run tasks in parallel, and apply specialized instructions in your Claude Agent SDK applications.
+- [Todo Lists](agent-sdk/todo-tracking.md) - Track and display todos using the Claude Agent SDK for organized task management
+- [Tracking Costs and Usage](agent-sdk/cost-tracking.md) - Understand and track token usage for billing in the Claude Agent SDK
+- [TypeScript SDK V2 interface (preview)](agent-sdk/typescript-v2-preview.md) - Preview of the simplified V2 TypeScript Agent SDK, with session-based send/stream patterns for multi-turn conversations.
+
+## Test And Evaluate
+
+- [Create strong empirical evaluations](test-and-evaluate/develop-tests.md)
+- [Define your success criteria](test-and-evaluate/define-success.md)
+- [Increase output consistency](test-and-evaluate/strengthen-guardrails/increase-consistency.md)
+- [Keep Claude in character with role prompting and prefilling](test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md)
+- [Mitigate jailbreaks and prompt injections](test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks.md)
+- [Reduce hallucinations](test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md)
+- [Reduce prompt leak](test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md)
+- [Reducing latency](test-and-evaluate/strengthen-guardrails/reduce-latency.md)
+- [Streaming refusals](test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md)
+- [Using the Evaluation Tool](test-and-evaluate/eval-tool.md) - The [Claude Console](/dashboard) features an **Evaluation tool** that allows you to test your prompts under various scenarios.
+
+## Api
+
+- [API Keys](api/admin/api_keys.md)
+- [API Overview](api/overview.md)
+- [Admin](api/admin.md)
+- [Archive](api/admin/workspaces/archive.md)
+- [Batches](api/messages/batches.md)
+- [Batches](api/beta/messages/batches.md)
+- [Batches](api/typescript/messages/batches.md)
+- [Batches](api/typescript/beta/messages/batches.md)
+- [Batches](api/python/messages/batches.md)
+- [Batches](api/python/beta/messages/batches.md)
+- [Batches](api/java/messages/batches.md)
+- [Batches](api/java/beta/messages/batches.md)
+- [Batches](api/go/messages/batches.md)
+- [Batches](api/go/beta/messages/batches.md)
+- [Batches](api/ruby/messages/batches.md)
+- [Batches](api/ruby/beta/messages/batches.md)
+- [Beta](api/beta.md)
+- [Beta](api/typescript/beta.md)
+- [Beta](api/python/beta.md)
+- [Beta](api/java/beta.md)
+- [Beta](api/go/beta.md)
+- [Beta](api/ruby/beta.md)
+- [Beta headers](api/beta-headers.md) - Documentation for using beta headers with the Claude API
+- [Cancel](api/messages/batches/cancel.md)
+- [Cancel](api/beta/messages/batches/cancel.md)
+- [Cancel](api/typescript/messages/batches/cancel.md)
+- [Cancel](api/typescript/beta/messages/batches/cancel.md)
+- [Cancel](api/python/messages/batches/cancel.md)
+- [Cancel](api/python/beta/messages/batches/cancel.md)
+- [Cancel](api/java/messages/batches/cancel.md)
+- [Cancel](api/java/beta/messages/batches/cancel.md)
+- [Cancel](api/go/messages/batches/cancel.md)
+- [Cancel](api/go/beta/messages/batches/cancel.md)
+- [Cancel](api/ruby/messages/batches/cancel.md)
+- [Cancel](api/ruby/beta/messages/batches/cancel.md)
+- [Client SDKs](api/client-sdks.md) - We provide client libraries in a number of popular languages that make it easier to work with the Claude API.
+- [Completions](api/completions.md)
+- [Completions](api/typescript/completions.md)
+- [Completions](api/python/completions.md)
+- [Completions](api/java/completions.md)
+- [Completions](api/go/completions.md)
+- [Completions](api/ruby/completions.md)
+- [Cost Report](api/admin/cost_report.md)
+- [Count_Tokens](api/messages/count_tokens.md)
+- [Count_Tokens](api/beta/messages/count_tokens.md)
+- [Count_Tokens](api/typescript/messages/count_tokens.md)
+- [Count_Tokens](api/typescript/beta/messages/count_tokens.md)
+- [Count_Tokens](api/python/messages/count_tokens.md)
+- [Count_Tokens](api/python/beta/messages/count_tokens.md)
+- [Count_Tokens](api/java/messages/count_tokens.md)
+- [Count_Tokens](api/java/beta/messages/count_tokens.md)
+- [Count_Tokens](api/go/messages/count_tokens.md)
+- [Count_Tokens](api/go/beta/messages/count_tokens.md)
+- [Count_Tokens](api/ruby/messages/count_tokens.md)
+- [Count_Tokens](api/ruby/beta/messages/count_tokens.md)
+- [Create](api/completions/create.md)
+- [Create](api/messages/create.md)
+- [Create](api/messages/batches/create.md)
+- [Create](api/beta/messages/create.md)
+- [Create](api/beta/messages/batches/create.md)
+- [Create](api/beta/skills/create.md)
+- [Create](api/beta/skills/versions/create.md)
+- [Create](api/typescript/completions/create.md)
+- [Create](api/typescript/messages/create.md)
+- [Create](api/typescript/messages/batches/create.md)
+- [Create](api/typescript/beta/messages/create.md)
+- [Create](api/typescript/beta/messages/batches/create.md)
+- [Create](api/typescript/beta/skills/create.md)
+- [Create](api/typescript/beta/skills/versions/create.md)
+- [Create](api/python/completions/create.md)
+- [Create](api/python/messages/create.md)
+- [Create](api/python/messages/batches/create.md)
+- [Create](api/python/beta/messages/create.md)
+- [Create](api/python/beta/messages/batches/create.md)
+- [Create](api/python/beta/skills/create.md)
+- [Create](api/python/beta/skills/versions/create.md)
+- [Create](api/java/completions/create.md)
+- [Create](api/java/messages/create.md)
+- [Create](api/java/messages/batches/create.md)
+- [Create](api/java/beta/messages/create.md)
+- [Create](api/java/beta/messages/batches/create.md)
+- [Create](api/java/beta/skills/create.md)
+- [Create](api/java/beta/skills/versions/create.md)
+- [Create](api/go/completions/create.md)
+- [Create](api/go/messages/create.md)
+- [Create](api/go/messages/batches/create.md)
+- [Create](api/go/beta/messages/create.md)
+- [Create](api/go/beta/messages/batches/create.md)
+- [Create](api/go/beta/skills/create.md)
+- [Create](api/go/beta/skills/versions/create.md)
+- [Create](api/ruby/completions/create.md)
+- [Create](api/ruby/messages/create.md)
+- [Create](api/ruby/messages/batches/create.md)
+- [Create](api/ruby/beta/messages/create.md)
+- [Create](api/ruby/beta/messages/batches/create.md)
+- [Create](api/ruby/beta/skills/create.md)
+- [Create](api/ruby/beta/skills/versions/create.md)
+- [Create](api/admin/invites/create.md)
+- [Create](api/admin/workspaces/create.md)
+- [Create](api/admin/workspaces/members/create.md)
+- [Delete](api/messages/batches/delete.md)
+- [Delete](api/beta/messages/batches/delete.md)
+- [Delete](api/beta/files/delete.md)
+- [Delete](api/beta/skills/delete.md)
+- [Delete](api/beta/skills/versions/delete.md)
+- [Delete](api/typescript/messages/batches/delete.md)
+- [Delete](api/typescript/beta/messages/batches/delete.md)
+- [Delete](api/typescript/beta/files/delete.md)
+- [Delete](api/typescript/beta/skills/delete.md)
+- [Delete](api/typescript/beta/skills/versions/delete.md)
+- [Delete](api/python/messages/batches/delete.md)
+- [Delete](api/python/beta/messages/batches/delete.md)
+- [Delete](api/python/beta/files/delete.md)
+- [Delete](api/python/beta/skills/delete.md)
+- [Delete](api/python/beta/skills/versions/delete.md)
+- [Delete](api/java/messages/batches/delete.md)
+- [Delete](api/java/beta/messages/batches/delete.md)
+- [Delete](api/java/beta/files/delete.md)
+- [Delete](api/java/beta/skills/delete.md)
+- [Delete](api/java/beta/skills/versions/delete.md)
+- [Delete](api/go/messages/batches/delete.md)
+- [Delete](api/go/beta/messages/batches/delete.md)
+- [Delete](api/go/beta/files/delete.md)
+- [Delete](api/go/beta/skills/delete.md)
+- [Delete](api/go/beta/skills/versions/delete.md)
+- [Delete](api/ruby/messages/batches/delete.md)
+- [Delete](api/ruby/beta/messages/batches/delete.md)
+- [Delete](api/ruby/beta/files/delete.md)
+- [Delete](api/ruby/beta/skills/delete.md)
+- [Delete](api/ruby/beta/skills/versions/delete.md)
+- [Delete](api/admin/invites/delete.md)
+- [Delete](api/admin/users/delete.md)
+- [Delete](api/admin/workspaces/members/delete.md)
+- [Download](api/beta/files/download.md)
+- [Download](api/typescript/beta/files/download.md)
+- [Download](api/python/beta/files/download.md)
+- [Download](api/java/beta/files/download.md)
+- [Download](api/go/beta/files/download.md)
+- [Download](api/ruby/beta/files/download.md)
+- [Errors](api/errors.md)
+- [Files](api/beta/files.md)
+- [Files](api/typescript/beta/files.md)
+- [Files](api/python/beta/files.md)
+- [Files](api/java/beta/files.md)
+- [Files](api/go/beta/files.md)
+- [Files](api/ruby/beta/files.md)
+- [IP addresses](api/ip-addresses.md) - Anthropic services use fixed IP addresses for both inbound and outbound connections. You can use these addresses to configure your firewall rules for secure access to the Claude API and Console. These addresses will not change without notice.
+- [Invites](api/admin/invites.md)
+- [List](api/messages/batches/list.md)
+- [List](api/models/list.md)
+- [List](api/beta/models/list.md)
+- [List](api/beta/messages/batches/list.md)
+- [List](api/beta/files/list.md)
+- [List](api/beta/skills/list.md)
+- [List](api/beta/skills/versions/list.md)
+- [List](api/typescript/messages/batches/list.md)
+- [List](api/typescript/models/list.md)
+- [List](api/typescript/beta/models/list.md)
+- [List](api/typescript/beta/messages/batches/list.md)
+- [List](api/typescript/beta/files/list.md)
+- [List](api/typescript/beta/skills/list.md)
+- [List](api/typescript/beta/skills/versions/list.md)
+- [List](api/python/messages/batches/list.md)
+- [List](api/python/models/list.md)
+- [List](api/python/beta/models/list.md)
+- [List](api/python/beta/messages/batches/list.md)
+- [List](api/python/beta/files/list.md)
+- [List](api/python/beta/skills/list.md)
+- [List](api/python/beta/skills/versions/list.md)
+- [List](api/java/messages/batches/list.md)
+- [List](api/java/models/list.md)
+- [List](api/java/beta/models/list.md)
+- [List](api/java/beta/messages/batches/list.md)
+- [List](api/java/beta/files/list.md)
+- [List](api/java/beta/skills/list.md)
+- [List](api/java/beta/skills/versions/list.md)
+- [List](api/go/messages/batches/list.md)
+- [List](api/go/models/list.md)
+- [List](api/go/beta/models/list.md)
+- [List](api/go/beta/messages/batches/list.md)
+- [List](api/go/beta/files/list.md)
+- [List](api/go/beta/skills/list.md)
+- [List](api/go/beta/skills/versions/list.md)
+- [List](api/ruby/messages/batches/list.md)
+- [List](api/ruby/models/list.md)
+- [List](api/ruby/beta/models/list.md)
+- [List](api/ruby/beta/messages/batches/list.md)
+- [List](api/ruby/beta/files/list.md)
+- [List](api/ruby/beta/skills/list.md)
+- [List](api/ruby/beta/skills/versions/list.md)
+- [List](api/admin/invites/list.md)
+- [List](api/admin/users/list.md)
+- [List](api/admin/workspaces/list.md)
+- [List](api/admin/workspaces/members/list.md)
+- [List](api/admin/api_keys/list.md)
+- [Me](api/admin/organizations/me.md)
+- [Members](api/admin/workspaces/members.md)
+- [Messages](api/messages.md)
+- [Messages](api/beta/messages.md)
+- [Messages](api/typescript/messages.md)
+- [Messages](api/typescript/beta/messages.md)
+- [Messages](api/python/messages.md)
+- [Messages](api/python/beta/messages.md)
+- [Messages](api/java/messages.md)
+- [Messages](api/java/beta/messages.md)
+- [Messages](api/go/messages.md)
+- [Messages](api/go/beta/messages.md)
+- [Messages](api/ruby/messages.md)
+- [Messages](api/ruby/beta/messages.md)
+- [Models](api/models.md)
+- [Models](api/beta/models.md)
+- [Models](api/typescript/models.md)
+- [Models](api/typescript/beta/models.md)
+- [Models](api/python/models.md)
+- [Models](api/python/beta/models.md)
+- [Models](api/java/models.md)
+- [Models](api/java/beta/models.md)
+- [Models](api/go/models.md)
+- [Models](api/go/beta/models.md)
+- [Models](api/ruby/models.md)
+- [Models](api/ruby/beta/models.md)
+- [OpenAI SDK compatibility](api/openai-sdk.md) - Anthropic provides a compatibility layer that enables you to use the OpenAI SDK to test the Claude API. With a few code changes, you can quickly evaluate Anthropic model capabilities.
+- [Organizations](api/admin/organizations.md)
+- [Rate limits](api/rate-limits.md) - To mitigate misuse and manage capacity on our API, we have implemented limits on how much an organization can use the Claude API.
+- [Results](api/messages/batches/results.md)
+- [Results](api/beta/messages/batches/results.md)
+- [Results](api/typescript/messages/batches/results.md)
+- [Results](api/typescript/beta/messages/batches/results.md)
+- [Results](api/python/messages/batches/results.md)
+- [Results](api/python/beta/messages/batches/results.md)
+- [Results](api/java/messages/batches/results.md)
+- [Results](api/java/beta/messages/batches/results.md)
+- [Results](api/go/messages/batches/results.md)
+- [Results](api/go/beta/messages/batches/results.md)
+- [Results](api/ruby/messages/batches/results.md)
+- [Results](api/ruby/beta/messages/batches/results.md)
+- [Retrieve](api/messages/batches/retrieve.md)
+- [Retrieve](api/models/retrieve.md)
+- [Retrieve](api/beta/models/retrieve.md)
+- [Retrieve](api/beta/messages/batches/retrieve.md)
+- [Retrieve](api/beta/skills/retrieve.md)
+- [Retrieve](api/beta/skills/versions/retrieve.md)
+- [Retrieve](api/typescript/messages/batches/retrieve.md)
+- [Retrieve](api/typescript/models/retrieve.md)
+- [Retrieve](api/typescript/beta/models/retrieve.md)
+- [Retrieve](api/typescript/beta/messages/batches/retrieve.md)
+- [Retrieve](api/typescript/beta/skills/retrieve.md)
+- [Retrieve](api/typescript/beta/skills/versions/retrieve.md)
+- [Retrieve](api/python/messages/batches/retrieve.md)
+- [Retrieve](api/python/models/retrieve.md)
+- [Retrieve](api/python/beta/models/retrieve.md)
+- [Retrieve](api/python/beta/messages/batches/retrieve.md)
+- [Retrieve](api/python/beta/skills/retrieve.md)
+- [Retrieve](api/python/beta/skills/versions/retrieve.md)
+- [Retrieve](api/java/messages/batches/retrieve.md)
+- [Retrieve](api/java/models/retrieve.md)
+- [Retrieve](api/java/beta/models/retrieve.md)
+- [Retrieve](api/java/beta/messages/batches/retrieve.md)
+- [Retrieve](api/java/beta/skills/retrieve.md)
+- [Retrieve](api/java/beta/skills/versions/retrieve.md)
+- [Retrieve](api/go/messages/batches/retrieve.md)
+- [Retrieve](api/go/models/retrieve.md)
+- [Retrieve](api/go/beta/models/retrieve.md)
+- [Retrieve](api/go/beta/messages/batches/retrieve.md)
+- [Retrieve](api/go/beta/skills/retrieve.md)
+- [Retrieve](api/go/beta/skills/versions/retrieve.md)
+- [Retrieve](api/ruby/messages/batches/retrieve.md)
+- [Retrieve](api/ruby/models/retrieve.md)
+- [Retrieve](api/ruby/beta/models/retrieve.md)
+- [Retrieve](api/ruby/beta/messages/batches/retrieve.md)
+- [Retrieve](api/ruby/beta/skills/retrieve.md)
+- [Retrieve](api/ruby/beta/skills/versions/retrieve.md)
+- [Retrieve](api/admin/invites/retrieve.md)
+- [Retrieve](api/admin/users/retrieve.md)
+- [Retrieve](api/admin/workspaces/retrieve.md)
+- [Retrieve](api/admin/workspaces/members/retrieve.md)
+- [Retrieve](api/admin/api_keys/retrieve.md)
+- [Retrieve](api/admin/cost_report/retrieve.md)
+- [Retrieve_Claude_Code](api/admin/usage_report/retrieve_claude_code.md)
+- [Retrieve_Messages](api/admin/usage_report/retrieve_messages.md)
+- [Retrieve_Metadata](api/beta/files/retrieve_metadata.md)
+- [Retrieve_Metadata](api/typescript/beta/files/retrieve_metadata.md)
+- [Retrieve_Metadata](api/python/beta/files/retrieve_metadata.md)
+- [Retrieve_Metadata](api/java/beta/files/retrieve_metadata.md)
+- [Retrieve_Metadata](api/go/beta/files/retrieve_metadata.md)
+- [Retrieve_Metadata](api/ruby/beta/files/retrieve_metadata.md)
+- [Service tiers](api/service-tiers.md) - Different tiers of service allow you to balance availability, performance, and predictable costs based on your application's needs.
+- [Skills](api/beta/skills.md)
+- [Skills](api/typescript/beta/skills.md)
+- [Skills](api/python/beta/skills.md)
+- [Skills](api/java/beta/skills.md)
+- [Skills](api/go/beta/skills.md)
+- [Skills](api/ruby/beta/skills.md)
+- [Supported regions](api/supported-regions.md) - Here are the countries, regions, and territories we can currently support access from:
+- [Update](api/admin/users/update.md)
+- [Update](api/admin/workspaces/update.md)
+- [Update](api/admin/workspaces/members/update.md)
+- [Update](api/admin/api_keys/update.md)
+- [Upload](api/beta/files/upload.md)
+- [Upload](api/typescript/beta/files/upload.md)
+- [Upload](api/python/beta/files/upload.md)
+- [Upload](api/java/beta/files/upload.md)
+- [Upload](api/go/beta/files/upload.md)
+- [Upload](api/ruby/beta/files/upload.md)
+- [Usage Report](api/admin/usage_report.md)
+- [Users](api/admin/users.md)
+- [Versions](api/versioning.md) - When making API requests, you must send an `anthropic-version` request header. For example, `anthropic-version: 2023-06-01`. If you are using our [client SDKs](/docs/en/api/client-sdks), this is handled for you automatically.
+- [Versions](api/beta/skills/versions.md)
+- [Versions](api/typescript/beta/skills/versions.md)
+- [Versions](api/python/beta/skills/versions.md)
+- [Versions](api/java/beta/skills/versions.md)
+- [Versions](api/go/beta/skills/versions.md)
+- [Versions](api/ruby/beta/skills/versions.md)
+- [Workspaces](api/admin/workspaces.md)
+
+## Resources
+
+- [Adaptive editor](resources/prompt-library/adaptive-editor.md) - Rewrite text following user-given instructions, such as with a different tone, audience, or style.
+- [Airport code analyst](resources/prompt-library/airport-code-analyst.md) - Find and extract airport codes from text.
+- [Alien anthropologist](resources/prompt-library/alien-anthropologist.md) - Analyze human culture and customs from the perspective of an alien anthropologist.
+- [Alliteration alchemist](resources/prompt-library/alliteration-alchemist.md) - Generate alliterative phrases and sentences for any given subject.
+- [Babel's broadcasts](resources/prompt-library/babels-broadcasts.md) - Create compelling product announcement tweets in the world's 10 most spoken languages.
+- [Brand builder](resources/prompt-library/brand-builder.md) - Craft a design brief for a holistic brand identity.
+- [CSV converter](resources/prompt-library/csv-converter.md) - Convert data from various formats (JSON, XML, etc.) into properly formatted CSV files.
+- [Career coach](resources/prompt-library/career-coach.md) - Engage in role-play conversations with an AI career coach.
+- [Cite your sources](resources/prompt-library/cite-your-sources.md) - Get answers to questions about a document's content with relevant citations supporting the response.
+- [Code clarifier](resources/prompt-library/code-clarifier.md) - Simplify and explain complex code in plain language.
+- [Code consultant](resources/prompt-library/code-consultant.md) - Suggest improvements to optimize Python code performance.
+- [Corporate clairvoyant](resources/prompt-library/corporate-clairvoyant.md) - Extract insights, identify risks, and distill key information from long corporate reports into a single memo.
+- [Cosmic Keystrokes](resources/prompt-library/cosmic-keystrokes.md) - Generate an interactive speed typing game in a single HTML file, featuring side-scrolling gameplay and Tailwind CSS styling.
+- [Culinary creator](resources/prompt-library/culinary-creator.md) - Suggest recipe ideas based on the user's available ingredients and dietary preferences.
+- [Data organizer](resources/prompt-library/data-organizer.md) - Turn unstructured text into bespoke JSON tables.
+- [Direction decoder](resources/prompt-library/direction-decoder.md) - Transform natural language into step-by-step directions.
+- [Dream interpreter](resources/prompt-library/dream-interpreter.md) - Offer interpretations and insights into the symbolism of the user's dreams.
+- [Efficiency estimator](resources/prompt-library/efficiency-estimator.md) - Calculate the time complexity of functions and algorithms.
+- [Email extractor](resources/prompt-library/email-extractor.md) - Extract email addresses from a document into a JSON-formatted list.
+- [Emoji encoder](resources/prompt-library/emoji-encoder.md) - Convert plain text into fun and expressive emoji messages.
+- [Ethical dilemma navigator](resources/prompt-library/ethical-dilemma-navigator.md) - Help the user think through complex ethical dilemmas and provide different perspectives.
+- [Excel formula expert](resources/prompt-library/excel-formula-expert.md) - Create Excel formulas based on user-described calculations or data manipulations.
+- [Function fabricator](resources/prompt-library/function-fabricator.md) - Create Python functions based on detailed specifications.
+- [Futuristic fashion advisor](resources/prompt-library/futuristic-fashion-advisor.md) - Suggest avant-garde fashion trends and styles for the user's specific preferences.
+- [Git gud](resources/prompt-library/git-gud.md) - Generate appropriate Git commands based on user-described version control actions.
+- [Google apps scripter](resources/prompt-library/google-apps-scripter.md) - Generate Google Apps scripts to complete tasks based on user requirements.
+- [Grading guru](resources/prompt-library/grading-guru.md) - Compare and evaluate the quality of written texts based on user-defined criteria and standards.
+- [Grammar genie](resources/prompt-library/grammar-genie.md) - Transform grammatically incorrect sentences into proper English.
+- [Hal the humorous helper](resources/prompt-library/hal-the-humorous-helper.md) - Chat with a knowledgeable AI that has a sarcastic side.
+- [Idiom illuminator](resources/prompt-library/idiom-illuminator.md) - Explain the meaning and origin of common idioms and proverbs.
+- [Interview question crafter](resources/prompt-library/interview-question-crafter.md) - Generate questions for interviews.
+- [LaTeX legend](resources/prompt-library/latex-legend.md) - Write LaTeX documents, generating code for mathematical equations, tables, and more.
+- [Lesson planner](resources/prompt-library/lesson-planner.md) - Craft in depth lesson plans on any subject.
+- [Master moderator](resources/prompt-library/master-moderator.md) - Evaluate user inputs for potential harmful or illegal content.
+- [Meeting scribe](resources/prompt-library/meeting-scribe.md) - Distill meetings into concise summaries including discussion topics, key takeaways, and action items.
+- [Memo maestro](resources/prompt-library/memo-maestro.md) - Compose comprehensive company memos based on key points.
+- [Mindfulness mentor](resources/prompt-library/mindfulness-mentor.md) - Guide the user through mindfulness exercises and techniques for stress reduction.
+- [Mood colorizer](resources/prompt-library/mood-colorizer.md) - Transform text descriptions of moods into corresponding HEX codes.
+- [Motivational muse](resources/prompt-library/motivational-muse.md) - Provide personalized motivational messages and affirmations based on user input.
+- [Neologism creator](resources/prompt-library/neologism-creator.md) - Invent new words and provide their definitions based on user-provided concepts or ideas.
+- [PII purifier](resources/prompt-library/pii-purifier.md) - Automatically detect and remove personally identifiable information (PII) from text documents.
+- [Perspectives ponderer](resources/prompt-library/perspectives-ponderer.md) - Weigh the pros and cons of a user-provided topic.
+- [Philosophical musings](resources/prompt-library/philosophical-musings.md) - Engage in deep philosophical discussions and thought experiments.
+- [Polyglot superpowers](resources/prompt-library/polyglot-superpowers.md) - Translate text from any language into any language.
+- [Portmanteau poet](resources/prompt-library/portmanteau-poet.md) - Blend two words together to create a new, meaningful portmanteau.
+- [Product naming pro](resources/prompt-library/product-naming-pro.md) - Create catchy product names from descriptions and keywords.
+- [Prose polisher](resources/prompt-library/prose-polisher.md) - Refine and improve written content with advanced copyediting techniques and suggestions.
+- [Pun-dit](resources/prompt-library/pun-dit.md) - Generate clever puns and wordplay based on any given topic.
+- [Python bug buster](resources/prompt-library/python-bug-buster.md) - Detect and fix bugs in Python code.
+- [Review classifier](resources/prompt-library/review-classifier.md) - Categorize feedback into pre-specified tags and categorizations.
+- [Riddle me this](resources/prompt-library/riddle-me-this.md) - Generate riddles and guide the user to the solutions.
+- [SQL sorcerer](resources/prompt-library/sql-sorcerer.md) - Transform everyday language into SQL queries.
+- [Sci-fi scenario simulator](resources/prompt-library/sci-fi-scenario-simulator.md) - Discuss with the user various science fiction scenarios and associated challenges and considerations.
+- [Second-grade simplifier](resources/prompt-library/second-grade-simplifier.md) - Make complex text easy for young learners to understand.
+- [Simile savant](resources/prompt-library/simile-savant.md) - Generate similes from basic descriptions.
+- [Socratic sage](resources/prompt-library/socratic-sage.md) - Engage in Socratic style conversation over a user-given topic.
+- [Spreadsheet sorcerer](resources/prompt-library/spreadsheet-sorcerer.md) - Generate CSV spreadsheets with various types of data.
+- [Storytelling sidekick](resources/prompt-library/storytelling-sidekick.md) - Collaboratively create engaging stories with the user, offering plot twists and character development.
+- [Time travel consultant](resources/prompt-library/time-travel-consultant.md) - Help the user navigate hypothetical time travel scenarios and their implications.
+- [Tongue twister](resources/prompt-library/tongue-twister.md) - Create challenging tongue twisters.
+- [Trivia generator](resources/prompt-library/trivia-generator.md) - Generate trivia questions on a wide range of topics and provide hints when needed.
+- [Tweet tone detector](resources/prompt-library/tweet-tone-detector.md) - Detect the tone and sentiment behind tweets.
+- [VR fitness innovator](resources/prompt-library/vr-fitness-innovator.md) - Brainstorm creative ideas for virtual reality fitness games.
+- [Website wizard](resources/prompt-library/website-wizard.md) - Create one-page websites based on user specifications.
+
+## Release Notes
+
+- [Claude Developer Platform](release-notes/overview.md) - Updates to the Claude Developer Platform, including the Claude API, client SDKs, and the Claude Console.
+- [System Prompts](release-notes/system-prompts.md) - See updates to the core system prompts on [Claude.ai](https://www.claude.ai) and the Claude [iOS](http://anthropic.com/ios) and [Android](http://anthropic.com/android) apps.
