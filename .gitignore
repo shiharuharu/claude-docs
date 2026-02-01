@@ -18,3 +18,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Doc sync snapshot temp dirs (should never be committed)
+docs/*.__tmp__/
+docs/*.__bak__/

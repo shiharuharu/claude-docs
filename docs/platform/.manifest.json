@@ -1,0 +1,3897 @@
+{
+  "entries": {
+    "https://platform.claude.com/docs/en/about-claude/glossary": {
+      "description": "These concepts are not unique to Anthropic\u2019s language models, but we present a brief summary of key terms below.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/glossary.md",
+      "title": "Glossary",
+      "url": "https://platform.claude.com/docs/en/about-claude/glossary"
+    },
+    "https://platform.claude.com/docs/en/about-claude/model-deprecations": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/model-deprecations.md",
+      "title": "Model deprecations",
+      "url": "https://platform.claude.com/docs/en/about-claude/model-deprecations"
+    },
+    "https://platform.claude.com/docs/en/about-claude/models/choosing-a-model": {
+      "description": "Selecting the optimal Claude model for your application involves balancing three key considerations: capabilities, speed, and cost. This guide helps you make an informed decision based on your specific requirements.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/models/choosing-a-model.md",
+      "title": "Choosing the right model",
+      "url": "https://platform.claude.com/docs/en/about-claude/models/choosing-a-model"
+    },
+    "https://platform.claude.com/docs/en/about-claude/models/migrating-to-claude-4": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/models/migrating-to-claude-4.md",
+      "title": "Migrating to Claude 4.5",
+      "url": "https://platform.claude.com/docs/en/about-claude/models/migrating-to-claude-4"
+    },
+    "https://platform.claude.com/docs/en/about-claude/models/overview": {
+      "description": "Claude is a family of state-of-the-art large language models developed by Anthropic. This guide introduces our models and compares their performance.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/models/overview.md",
+      "title": "Models overview",
+      "url": "https://platform.claude.com/docs/en/about-claude/models/overview"
+    },
+    "https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-5": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/models/whats-new-claude-4-5.md",
+      "title": "What's new in Claude 4.5",
+      "url": "https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-5"
+    },
+    "https://platform.claude.com/docs/en/about-claude/pricing": {
+      "description": "Learn about Anthropic's pricing structure for models and features",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/pricing.md",
+      "title": "Pricing",
+      "url": "https://platform.claude.com/docs/en/about-claude/pricing"
+    },
+    "https://platform.claude.com/docs/en/about-claude/use-case-guides/content-moderation": {
+      "description": "Content moderation is a critical aspect of maintaining a safe, respectful, and productive environment in digital applications. In this guide, we'll discuss how Claude can be used to moderate content within your digital application.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/use-case-guides/content-moderation.md",
+      "title": "Content moderation",
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/content-moderation"
+    },
+    "https://platform.claude.com/docs/en/about-claude/use-case-guides/customer-support-chat": {
+      "description": "This guide walks through how to leverage Claude's advanced conversational capabilities to handle customer inquiries in real time, providing 24/7 support, reducing wait times, and managing high support volumes with accurate responses and positive interactions.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/use-case-guides/customer-support-chat.md",
+      "title": "Customer support agent",
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/customer-support-chat"
+    },
+    "https://platform.claude.com/docs/en/about-claude/use-case-guides/legal-summarization": {
+      "description": "This guide walks through how to leverage Claude's advanced natural language processing capabilities to efficiently summarize legal documents, extracting key information and expediting legal research. With Claude, you can streamline the review of contracts, litigation prep, and regulatory work, saving time and ensuring accuracy in your legal processes.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/use-case-guides/legal-summarization.md",
+      "title": "Legal summarization",
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/legal-summarization"
+    },
+    "https://platform.claude.com/docs/en/about-claude/use-case-guides/ticket-routing": {
+      "description": "This guide walks through how to harness Claude's advanced natural language understanding capabilities to classify customer support tickets at scale based on customer intent, urgency, prioritization, customer profile, and more.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "about-claude/use-case-guides/ticket-routing.md",
+      "title": "Ticket routing",
+      "url": "https://platform.claude.com/docs/en/about-claude/use-case-guides/ticket-routing"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/cost-tracking": {
+      "description": "Understand and track token usage for billing in the Claude Agent SDK",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/cost-tracking.md",
+      "title": "Tracking Costs and Usage",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/cost-tracking"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/custom-tools": {
+      "description": "Build and integrate custom tools to extend Claude Agent SDK functionality",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/custom-tools.md",
+      "title": "Custom Tools",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/custom-tools"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/file-checkpointing": {
+      "description": "Track file changes during agent sessions and restore files to any previous state",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/file-checkpointing.md",
+      "title": "Rewind file changes with checkpointing",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/file-checkpointing"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/hooks": {
+      "description": "Intercept and customize agent behavior at key execution points with hooks",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/hooks.md",
+      "title": "Intercept and control agent behavior with hooks",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/hooks"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/hosting": {
+      "description": "Deploy and host Claude Agent SDK in production environments",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/hosting.md",
+      "title": "Hosting the Agent SDK",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/hosting"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/mcp": {
+      "description": "Configure MCP servers to extend your agent with external tools. Covers transport types, tool search for large tool sets, authentication, and error handling.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/mcp.md",
+      "title": "Connect to external tools with MCP",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/mcp"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/migration-guide": {
+      "description": "Guide for migrating the Claude Code TypeScript and Python SDKs to the Claude Agent SDK",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/migration-guide.md",
+      "title": "Migrate to Claude Agent SDK",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/migration-guide"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/modifying-system-prompts": {
+      "description": "Learn how to customize Claude's behavior by modifying system prompts using three approaches - output styles, systemPrompt with append, and custom system prompts.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/modifying-system-prompts.md",
+      "title": "Modifying system prompts",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/modifying-system-prompts"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/overview": {
+      "description": "Build production AI agents with Claude Code as a library",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/overview.md",
+      "title": "Agent SDK overview",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/overview"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/permissions": {
+      "description": "Control how your agent uses tools with permission modes, hooks, and declarative allow/deny rules.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/permissions.md",
+      "title": "Configure permissions",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/permissions"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/plugins": {
+      "description": "Load custom plugins to extend Claude Code with commands, agents, skills, and hooks through the Agent SDK",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/plugins.md",
+      "title": "Plugins in the SDK",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/plugins"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/python": {
+      "description": "Complete API reference for the Python Agent SDK, including all functions, types, and classes.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/python.md",
+      "title": "Agent SDK reference - Python",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/python"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/quickstart": {
+      "description": "Get started with the Python or TypeScript Agent SDK to build AI agents that work autonomously",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/quickstart.md",
+      "title": "Quickstart",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/quickstart"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/secure-deployment": {
+      "description": "A guide to securing Claude Code and Agent SDK deployments with isolation, credential management, and network controls",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/secure-deployment.md",
+      "title": "Securely deploying AI agents",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/secure-deployment"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/sessions": {
+      "description": "Understanding how the Claude Agent SDK handles sessions and session resumption",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/sessions.md",
+      "title": "Session Management",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/sessions"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/skills": {
+      "description": "Extend Claude with specialized capabilities using Agent Skills in the Claude Agent SDK",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/skills.md",
+      "title": "Agent Skills in the SDK",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/skills"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/slash-commands": {
+      "description": "Learn how to use slash commands to control Claude Code sessions through the SDK",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/slash-commands.md",
+      "title": "Slash Commands in the SDK",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/slash-commands"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/streaming-output": {
+      "description": "Get real-time responses from the Agent SDK as text and tool calls stream in",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/streaming-output.md",
+      "title": "Stream responses in real-time",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/streaming-output"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/streaming-vs-single-mode": {
+      "description": "Understanding the two input modes for Claude Agent SDK and when to use each",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/streaming-vs-single-mode.md",
+      "title": "Streaming Input",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/streaming-vs-single-mode"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/structured-outputs": {
+      "description": "Return validated JSON from agent workflows using JSON Schema, Zod, or Pydantic. Get type-safe, structured data after multi-turn tool use.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/structured-outputs.md",
+      "title": "Get structured output from agents",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/structured-outputs"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/subagents": {
+      "description": "Define and invoke subagents to isolate context, run tasks in parallel, and apply specialized instructions in your Claude Agent SDK applications.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/subagents.md",
+      "title": "Subagents in the SDK",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/subagents"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/todo-tracking": {
+      "description": "Track and display todos using the Claude Agent SDK for organized task management",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/todo-tracking.md",
+      "title": "Todo Lists",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/todo-tracking"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/typescript": {
+      "description": "Complete API reference for the TypeScript Agent SDK, including all functions, types, and interfaces.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/typescript.md",
+      "title": "Agent SDK reference - TypeScript",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/typescript"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/typescript-v2-preview": {
+      "description": "Preview of the simplified V2 TypeScript Agent SDK, with session-based send/stream patterns for multi-turn conversations.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/typescript-v2-preview.md",
+      "title": "TypeScript SDK V2 interface (preview)",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/typescript-v2-preview"
+    },
+    "https://platform.claude.com/docs/en/agent-sdk/user-input": {
+      "description": "Surface Claude's approval requests and clarifying questions to users, then return their decisions to the SDK.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agent-sdk/user-input.md",
+      "title": "Handle approvals and user input",
+      "url": "https://platform.claude.com/docs/en/agent-sdk/user-input"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices": {
+      "description": "Learn how to write effective Skills that Claude can discover and use successfully.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/agent-skills/best-practices.md",
+      "title": "Skill authoring best practices",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/enterprise": {
+      "description": "Governance, security review, evaluation, and organizational guidance for deploying Agent Skills at enterprise scale.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/agent-skills/enterprise.md",
+      "title": "Skills for enterprise",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/enterprise"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview": {
+      "description": "Agent Skills are modular capabilities that extend Claude's functionality. Each Skill packages instructions, metadata, and optional resources (scripts, templates) that Claude uses automatically when relevant.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/agent-skills/overview.md",
+      "title": "Agent Skills",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/quickstart": {
+      "description": "Learn how to use Agent Skills to create documents with the Claude API in under 10 minutes.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/agent-skills/quickstart.md",
+      "title": "Get started with Agent Skills in the API",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/quickstart"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/mcp-connector": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/mcp-connector.md",
+      "title": "MCP connector",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/mcp-connector"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/remote-mcp-servers": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/remote-mcp-servers.md",
+      "title": "Remote MCP servers",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/remote-mcp-servers"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/bash-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/bash-tool.md",
+      "title": "Bash tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/bash-tool"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/code-execution-tool.md",
+      "title": "Code execution tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/computer-use-tool.md",
+      "title": "Computer use tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/fine-grained-tool-streaming": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/fine-grained-tool-streaming.md",
+      "title": "Fine-grained tool streaming",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/fine-grained-tool-streaming"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/implement-tool-use": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/implement-tool-use.md",
+      "title": "How to implement tool use",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/implement-tool-use"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/memory-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/memory-tool.md",
+      "title": "Memory tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/memory-tool"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/overview.md",
+      "title": "Tool use with Claude",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/programmatic-tool-calling.md",
+      "title": "Programmatic tool calling",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/text-editor-tool.md",
+      "title": "Text editor tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-search-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/tool-search-tool.md",
+      "title": "Tool search tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-search-tool"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-fetch-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/web-fetch-tool.md",
+      "title": "Web fetch tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-fetch-tool"
+    },
+    "https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "agents-and-tools/tool-use/web-search-tool.md",
+      "title": "Web search tool",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool"
+    },
+    "https://platform.claude.com/docs/en/api/admin": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin.md",
+      "title": "Admin",
+      "url": "https://platform.claude.com/docs/en/api/admin"
+    },
+    "https://platform.claude.com/docs/en/api/admin/api_keys": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/api_keys.md",
+      "title": "API Keys",
+      "url": "https://platform.claude.com/docs/en/api/admin/api_keys"
+    },
+    "https://platform.claude.com/docs/en/api/admin/api_keys/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/api_keys/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/api_keys/list"
+    },
+    "https://platform.claude.com/docs/en/api/admin/api_keys/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/api_keys/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/api_keys/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/admin/api_keys/update": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/api_keys/update.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/api_keys/update"
+    },
+    "https://platform.claude.com/docs/en/api/admin/cost_report": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/cost_report.md",
+      "title": "Cost Report",
+      "url": "https://platform.claude.com/docs/en/api/admin/cost_report"
+    },
+    "https://platform.claude.com/docs/en/api/admin/cost_report/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/cost_report/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/cost_report/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/admin/invites": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/invites.md",
+      "title": "Invites",
+      "url": "https://platform.claude.com/docs/en/api/admin/invites"
+    },
+    "https://platform.claude.com/docs/en/api/admin/invites/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/invites/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/invites/create"
+    },
+    "https://platform.claude.com/docs/en/api/admin/invites/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/invites/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/invites/delete"
+    },
+    "https://platform.claude.com/docs/en/api/admin/invites/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/invites/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/invites/list"
+    },
+    "https://platform.claude.com/docs/en/api/admin/invites/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/invites/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/invites/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/admin/organizations": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/organizations.md",
+      "title": "Organizations",
+      "url": "https://platform.claude.com/docs/en/api/admin/organizations"
+    },
+    "https://platform.claude.com/docs/en/api/admin/organizations/me": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/organizations/me.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/organizations/me"
+    },
+    "https://platform.claude.com/docs/en/api/admin/usage_report": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/usage_report.md",
+      "title": "Usage Report",
+      "url": "https://platform.claude.com/docs/en/api/admin/usage_report"
+    },
+    "https://platform.claude.com/docs/en/api/admin/usage_report/retrieve_claude_code": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/usage_report/retrieve_claude_code.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/usage_report/retrieve_claude_code"
+    },
+    "https://platform.claude.com/docs/en/api/admin/usage_report/retrieve_messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/usage_report/retrieve_messages.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/usage_report/retrieve_messages"
+    },
+    "https://platform.claude.com/docs/en/api/admin/users": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/users.md",
+      "title": "Users",
+      "url": "https://platform.claude.com/docs/en/api/admin/users"
+    },
+    "https://platform.claude.com/docs/en/api/admin/users/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/users/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/users/delete"
+    },
+    "https://platform.claude.com/docs/en/api/admin/users/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/users/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/users/list"
+    },
+    "https://platform.claude.com/docs/en/api/admin/users/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/users/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/users/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/admin/users/update": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/users/update.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/users/update"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces.md",
+      "title": "Workspaces",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/archive": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/archive.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/archive"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/create"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/list"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/members": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/members.md",
+      "title": "Members",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/members"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/members/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/members/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/members/create"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/members/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/members/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/members/delete"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/members/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/members/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/members/list"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/members/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/members/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/members/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/members/update": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/members/update.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/members/update"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/admin/workspaces/update": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/admin/workspaces/update.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/admin/workspaces/update"
+    },
+    "https://platform.claude.com/docs/en/api/beta": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta.md",
+      "title": "Beta",
+      "url": "https://platform.claude.com/docs/en/api/beta"
+    },
+    "https://platform.claude.com/docs/en/api/beta-headers": {
+      "description": "Documentation for using beta headers with the Claude API",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta-headers.md",
+      "title": "Beta headers",
+      "url": "https://platform.claude.com/docs/en/api/beta-headers"
+    },
+    "https://platform.claude.com/docs/en/api/beta/files": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/files.md",
+      "title": "Files",
+      "url": "https://platform.claude.com/docs/en/api/beta/files"
+    },
+    "https://platform.claude.com/docs/en/api/beta/files/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/files/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/files/delete"
+    },
+    "https://platform.claude.com/docs/en/api/beta/files/download": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/files/download.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/files/download"
+    },
+    "https://platform.claude.com/docs/en/api/beta/files/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/files/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/files/list"
+    },
+    "https://platform.claude.com/docs/en/api/beta/files/retrieve_metadata": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/files/retrieve_metadata.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/files/retrieve_metadata"
+    },
+    "https://platform.claude.com/docs/en/api/beta/files/upload": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/files/upload.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/files/upload"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/beta/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/beta/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/beta/models"
+    },
+    "https://platform.claude.com/docs/en/api/beta/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/beta/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills.md",
+      "title": "Skills",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/create"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/delete"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/list"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/versions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/versions.md",
+      "title": "Versions",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/versions"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/versions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/versions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/versions/create"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/versions/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/versions/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/versions/delete"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/versions/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/versions/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/versions/list"
+    },
+    "https://platform.claude.com/docs/en/api/beta/skills/versions/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/beta/skills/versions/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/beta/skills/versions/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/client-sdks": {
+      "description": "We provide client libraries in a number of popular languages that make it easier to work with the Claude API.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/client-sdks.md",
+      "title": "Client SDKs",
+      "url": "https://platform.claude.com/docs/en/api/client-sdks"
+    },
+    "https://platform.claude.com/docs/en/api/completions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/completions.md",
+      "title": "Completions",
+      "url": "https://platform.claude.com/docs/en/api/completions"
+    },
+    "https://platform.claude.com/docs/en/api/completions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/completions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/completions/create"
+    },
+    "https://platform.claude.com/docs/en/api/errors": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/errors.md",
+      "title": "Errors",
+      "url": "https://platform.claude.com/docs/en/api/errors"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta.md",
+      "title": "Beta",
+      "url": "https://platform.claude.com/docs/en/api/go/beta"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/files": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/files.md",
+      "title": "Files",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/files"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/files/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/files/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/files/delete"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/files/download": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/files/download.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/files/download"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/files/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/files/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/files/list"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/files/retrieve_metadata": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/files/retrieve_metadata.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/files/retrieve_metadata"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/files/upload": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/files/upload.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/files/upload"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/models"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills.md",
+      "title": "Skills",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/create"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/delete"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/list"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/versions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/versions.md",
+      "title": "Versions",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/versions"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/versions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/versions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/versions/create"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/versions/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/versions/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/versions/delete"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/versions/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/versions/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/versions/list"
+    },
+    "https://platform.claude.com/docs/en/api/go/beta/skills/versions/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/beta/skills/versions/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/beta/skills/versions/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/go/completions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/completions.md",
+      "title": "Completions",
+      "url": "https://platform.claude.com/docs/en/api/go/completions"
+    },
+    "https://platform.claude.com/docs/en/api/go/completions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/completions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/completions/create"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/go/messages"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/go/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/go/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/go/models"
+    },
+    "https://platform.claude.com/docs/en/api/go/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/go/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/go/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/go/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/ip-addresses": {
+      "description": "Anthropic services use fixed IP addresses for both inbound and outbound connections. You can use these addresses to configure your firewall rules for secure access to the Claude API and Console. These addresses will not change without notice.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ip-addresses.md",
+      "title": "IP addresses",
+      "url": "https://platform.claude.com/docs/en/api/ip-addresses"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta.md",
+      "title": "Beta",
+      "url": "https://platform.claude.com/docs/en/api/java/beta"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/files": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/files.md",
+      "title": "Files",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/files"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/files/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/files/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/files/delete"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/files/download": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/files/download.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/files/download"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/files/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/files/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/files/list"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/files/retrieve_metadata": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/files/retrieve_metadata.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/files/retrieve_metadata"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/files/upload": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/files/upload.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/files/upload"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/models"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills.md",
+      "title": "Skills",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/create"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/delete"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/list"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/versions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/versions.md",
+      "title": "Versions",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/versions"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/versions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/versions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/versions/create"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/versions/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/versions/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/versions/delete"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/versions/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/versions/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/versions/list"
+    },
+    "https://platform.claude.com/docs/en/api/java/beta/skills/versions/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/beta/skills/versions/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/beta/skills/versions/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/java/completions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/completions.md",
+      "title": "Completions",
+      "url": "https://platform.claude.com/docs/en/api/java/completions"
+    },
+    "https://platform.claude.com/docs/en/api/java/completions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/completions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/completions/create"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/java/messages"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/java/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/java/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/java/models"
+    },
+    "https://platform.claude.com/docs/en/api/java/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/java/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/java/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/java/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/messages"
+    },
+    "https://platform.claude.com/docs/en/api/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/models"
+    },
+    "https://platform.claude.com/docs/en/api/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/openai-sdk": {
+      "description": "Anthropic provides a compatibility layer that enables you to use the OpenAI SDK to test the Claude API. With a few code changes, you can quickly evaluate Anthropic model capabilities.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/openai-sdk.md",
+      "title": "OpenAI SDK compatibility",
+      "url": "https://platform.claude.com/docs/en/api/openai-sdk"
+    },
+    "https://platform.claude.com/docs/en/api/overview": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/overview.md",
+      "title": "API Overview",
+      "url": "https://platform.claude.com/docs/en/api/overview"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta.md",
+      "title": "Beta",
+      "url": "https://platform.claude.com/docs/en/api/python/beta"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/files": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/files.md",
+      "title": "Files",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/files"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/files/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/files/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/files/delete"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/files/download": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/files/download.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/files/download"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/files/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/files/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/files/list"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/files/retrieve_metadata": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/files/retrieve_metadata.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/files/retrieve_metadata"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/files/upload": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/files/upload.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/files/upload"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/models"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills.md",
+      "title": "Skills",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/create"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/delete"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/list"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/versions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/versions.md",
+      "title": "Versions",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/versions"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/versions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/versions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/versions/create"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/versions/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/versions/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/versions/delete"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/versions/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/versions/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/versions/list"
+    },
+    "https://platform.claude.com/docs/en/api/python/beta/skills/versions/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/beta/skills/versions/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/beta/skills/versions/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/python/completions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/completions.md",
+      "title": "Completions",
+      "url": "https://platform.claude.com/docs/en/api/python/completions"
+    },
+    "https://platform.claude.com/docs/en/api/python/completions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/completions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/completions/create"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/python/messages"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/python/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/python/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/python/models"
+    },
+    "https://platform.claude.com/docs/en/api/python/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/python/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/python/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/python/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/rate-limits": {
+      "description": "To mitigate misuse and manage capacity on our API, we have implemented limits on how much an organization can use the Claude API.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/rate-limits.md",
+      "title": "Rate limits",
+      "url": "https://platform.claude.com/docs/en/api/rate-limits"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta.md",
+      "title": "Beta",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/files": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/files.md",
+      "title": "Files",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/files"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/files/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/files/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/files/delete"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/files/download": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/files/download.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/files/download"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/files/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/files/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/files/list"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/files/retrieve_metadata": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/files/retrieve_metadata.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/files/retrieve_metadata"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/files/upload": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/files/upload.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/files/upload"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/models"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills.md",
+      "title": "Skills",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/create"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/delete"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/list"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/versions.md",
+      "title": "Versions",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/versions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/create"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/versions/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/delete"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/versions/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/list"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/beta/skills/versions/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/beta/skills/versions/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/completions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/completions.md",
+      "title": "Completions",
+      "url": "https://platform.claude.com/docs/en/api/ruby/completions"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/completions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/completions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/completions/create"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/ruby/models"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/ruby/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/ruby/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/ruby/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/service-tiers": {
+      "description": "Different tiers of service allow you to balance availability, performance, and predictable costs based on your application's needs.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/service-tiers.md",
+      "title": "Service tiers",
+      "url": "https://platform.claude.com/docs/en/api/service-tiers"
+    },
+    "https://platform.claude.com/docs/en/api/supported-regions": {
+      "description": "Here are the countries, regions, and territories we can currently support access from:",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/supported-regions.md",
+      "title": "Supported regions",
+      "url": "https://platform.claude.com/docs/en/api/supported-regions"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta.md",
+      "title": "Beta",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/files": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/files.md",
+      "title": "Files",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/files"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/files/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/files/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/files/delete"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/files/download": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/files/download.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/files/download"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/files/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/files/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/files/list"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/files/retrieve_metadata": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/files/retrieve_metadata.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/files/retrieve_metadata"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/files/upload": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/files/upload.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/files/upload"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/models"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills.md",
+      "title": "Skills",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/create"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/delete"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/list"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/versions.md",
+      "title": "Versions",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/versions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/create"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/versions/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/delete"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/versions/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/list"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/beta/skills/versions/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/beta/skills/versions/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/completions": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/completions.md",
+      "title": "Completions",
+      "url": "https://platform.claude.com/docs/en/api/typescript/completions"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/completions/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/completions/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/completions/create"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages.md",
+      "title": "Messages",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/batches": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/batches.md",
+      "title": "Batches",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/batches"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/batches/cancel": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/batches/cancel.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/batches/cancel"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/batches/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/batches/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/batches/create"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/batches/delete": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/batches/delete.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/batches/delete"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/batches/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/batches/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/batches/list"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/batches/results": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/batches/results.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/batches/results"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/batches/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/batches/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/batches/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/count_tokens": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/count_tokens.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/count_tokens"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/messages/create": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/messages/create.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/messages/create"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/models": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/models.md",
+      "title": "Models",
+      "url": "https://platform.claude.com/docs/en/api/typescript/models"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/models/list": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/models/list.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/models/list"
+    },
+    "https://platform.claude.com/docs/en/api/typescript/models/retrieve": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/typescript/models/retrieve.md",
+      "title": "",
+      "url": "https://platform.claude.com/docs/en/api/typescript/models/retrieve"
+    },
+    "https://platform.claude.com/docs/en/api/versioning": {
+      "description": "When making API requests, you must send an `anthropic-version` request header. For example, `anthropic-version: 2023-06-01`. If you are using our [client SDKs](/docs/en/api/client-sdks), this is handled for you automatically.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "api/versioning.md",
+      "title": "Versions",
+      "url": "https://platform.claude.com/docs/en/api/versioning"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/administration-api": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/administration-api.md",
+      "title": "Admin API overview",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/administration-api"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/batch-processing": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/batch-processing.md",
+      "title": "Batch processing",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/batch-processing"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/citations": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/citations.md",
+      "title": "Citations",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/citations"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/claude-code-analytics-api": {
+      "description": "Programmatically access your organization's Claude Code usage analytics and productivity metrics with the Claude Code Analytics Admin API.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/claude-code-analytics-api.md",
+      "title": "Claude Code Analytics API",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-code-analytics-api"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/claude-in-microsoft-foundry": {
+      "description": "Access Claude models through Microsoft Foundry with Azure-native endpoints and authentication.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/claude-in-microsoft-foundry.md",
+      "title": "Claude in Microsoft Foundry",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-in-microsoft-foundry"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/claude-on-amazon-bedrock": {
+      "description": "Anthropic's Claude models are now generally available through Amazon Bedrock.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/claude-on-amazon-bedrock.md",
+      "title": "Claude on Amazon Bedrock",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-on-amazon-bedrock"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/claude-on-vertex-ai": {
+      "description": "Anthropic's Claude models are now generally available through [Vertex AI](https://cloud.google.com/vertex-ai).",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/claude-on-vertex-ai.md",
+      "title": "Claude on Vertex AI",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-on-vertex-ai"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/context-editing": {
+      "description": "Automatically manage conversation context as it grows with context editing.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/context-editing.md",
+      "title": "Context editing",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/context-editing"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/context-windows": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/context-windows.md",
+      "title": "Context windows",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/context-windows"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/effort": {
+      "description": "Control how many tokens Claude uses when responding with the effort parameter, trading off between response thoroughness and token efficiency.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/effort.md",
+      "title": "Effort",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/effort"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/embeddings": {
+      "description": "Text embeddings are numerical representations of text that enable measuring semantic similarity. This guide introduces embeddings, their applications, and how to use embedding models for tasks like search, recommendations, and anomaly detection.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/embeddings.md",
+      "title": "Embeddings",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/embeddings"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/extended-thinking": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/extended-thinking.md",
+      "title": "Building with extended thinking",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/extended-thinking"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/files": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/files.md",
+      "title": "Files API",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/files"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/multilingual-support": {
+      "description": "Claude excels at tasks across multiple languages, maintaining strong cross-lingual performance relative to English.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/multilingual-support.md",
+      "title": "Multilingual support",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/multilingual-support"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/overview": {
+      "description": "Explore Claude's advanced features and capabilities.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/overview.md",
+      "title": "Features overview",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/overview"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/pdf-support": {
+      "description": "Process PDFs with Claude. Extract text, analyze charts, and understand visual content from your documents.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/pdf-support.md",
+      "title": "PDF support",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/pdf-support"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-caching": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-caching.md",
+      "title": "Prompt caching",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-caching"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/be-clear-and-direct": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/be-clear-and-direct.md",
+      "title": "Be clear, direct, and detailed",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/be-clear-and-direct"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-of-thought": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/chain-of-thought.md",
+      "title": "Let Claude think (chain of thought prompting) to increase performance",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-of-thought"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-prompts": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/chain-prompts.md",
+      "title": "Chain complex prompts for stronger performance",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-prompts"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/claude-4-best-practices.md",
+      "title": "Prompting best practices",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/extended-thinking-tips": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/extended-thinking-tips.md",
+      "title": "Extended thinking tips",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/extended-thinking-tips"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/long-context-tips": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/long-context-tips.md",
+      "title": "Long context prompting tips",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/long-context-tips"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/multishot-prompting": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/multishot-prompting.md",
+      "title": "Use examples (multishot prompting) to guide Claude's behavior",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/multishot-prompting"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/overview.md",
+      "title": "Prompt engineering overview",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prefill-claudes-response": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/prefill-claudes-response.md",
+      "title": "Prefill Claude's response for greater output control",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prefill-claudes-response"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-generator": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/prompt-generator.md",
+      "title": "Automatically generate first draft prompt templates",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-generator"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-improver": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/prompt-improver.md",
+      "title": "Use our prompt improver to optimize your prompts",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-improver"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-templates-and-variables": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/prompt-templates-and-variables.md",
+      "title": "Use prompt templates and variables",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompt-templates-and-variables"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/system-prompts": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/system-prompts.md",
+      "title": "Giving Claude a role with a system prompt",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/system-prompts"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/use-xml-tags": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/prompt-engineering/use-xml-tags.md",
+      "title": "Use XML tags to structure your prompts",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/use-xml-tags"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/search-results": {
+      "description": "Enable natural citations for RAG applications by providing search results with source attribution",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/search-results.md",
+      "title": "Search results",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/search-results"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/skills-guide": {
+      "description": "Learn how to use Agent Skills to extend Claude's capabilities through the API.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/skills-guide.md",
+      "title": "Using Agent Skills with the API",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/skills-guide"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/streaming": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/streaming.md",
+      "title": "Streaming Messages",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/streaming"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/structured-outputs": {
+      "description": "Get validated JSON results from agent workflows",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/structured-outputs.md",
+      "title": "Structured outputs",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/structured-outputs"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/token-counting": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/token-counting.md",
+      "title": "Token counting",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/token-counting"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/usage-cost-api": {
+      "description": "Programmatically access your organization's API usage and cost data with the Usage & Cost Admin API.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/usage-cost-api.md",
+      "title": "Usage and Cost API",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/usage-cost-api"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/vision": {
+      "description": "Claude's vision capabilities allow it to understand and analyze images, opening up exciting possibilities for multimodal interaction.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/vision.md",
+      "title": "Vision",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/vision"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/working-with-messages": {
+      "description": "Practical patterns and examples for using the Messages API effectively",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/working-with-messages.md",
+      "title": "Using the Messages API",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/working-with-messages"
+    },
+    "https://platform.claude.com/docs/en/build-with-claude/workspaces": {
+      "description": "Organize API keys, manage team access, and control costs with workspaces.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "build-with-claude/workspaces.md",
+      "title": "Workspaces",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/workspaces"
+    },
+    "https://platform.claude.com/docs/en/get-started": {
+      "description": "Make your first API call to Claude and build a simple web search assistant",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "get-started.md",
+      "title": "Get started with Claude",
+      "url": "https://platform.claude.com/docs/en/get-started"
+    },
+    "https://platform.claude.com/docs/en/intro": {
+      "description": "Claude is a highly performant, trustworthy, and intelligent AI platform built by Anthropic. Claude excels at tasks involving language, reasoning, analysis, coding, and more.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "intro.md",
+      "title": "Intro to Claude",
+      "url": "https://platform.claude.com/docs/en/intro"
+    },
+    "https://platform.claude.com/docs/en/release-notes/overview": {
+      "description": "Updates to the Claude Developer Platform, including the Claude API, client SDKs, and the Claude Console.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "release-notes/overview.md",
+      "title": "Claude Developer Platform",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview"
+    },
+    "https://platform.claude.com/docs/en/release-notes/system-prompts": {
+      "description": "See updates to the core system prompts on [Claude.ai](https://www.claude.ai) and the Claude [iOS](http://anthropic.com/ios) and [Android](http://anthropic.com/android) apps.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "release-notes/system-prompts.md",
+      "title": "System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/adaptive-editor": {
+      "description": "Rewrite text following user-given instructions, such as with a different tone, audience, or style.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/adaptive-editor.md",
+      "title": "Adaptive editor",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/adaptive-editor"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/airport-code-analyst": {
+      "description": "Find and extract airport codes from text.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/airport-code-analyst.md",
+      "title": "Airport code analyst",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/airport-code-analyst"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/alien-anthropologist": {
+      "description": "Analyze human culture and customs from the perspective of an alien anthropologist.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/alien-anthropologist.md",
+      "title": "Alien anthropologist",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/alien-anthropologist"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/alliteration-alchemist": {
+      "description": "Generate alliterative phrases and sentences for any given subject.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/alliteration-alchemist.md",
+      "title": "Alliteration alchemist",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/alliteration-alchemist"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/babels-broadcasts": {
+      "description": "Create compelling product announcement tweets in the world's 10 most spoken languages.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/babels-broadcasts.md",
+      "title": "Babel's broadcasts",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/babels-broadcasts"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/brand-builder": {
+      "description": "Craft a design brief for a holistic brand identity.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/brand-builder.md",
+      "title": "Brand builder",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/brand-builder"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/career-coach": {
+      "description": "Engage in role-play conversations with an AI career coach.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/career-coach.md",
+      "title": "Career coach",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/career-coach"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/cite-your-sources": {
+      "description": "Get answers to questions about a document's content with relevant citations supporting the response.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/cite-your-sources.md",
+      "title": "Cite your sources",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/cite-your-sources"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/code-clarifier": {
+      "description": "Simplify and explain complex code in plain language.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/code-clarifier.md",
+      "title": "Code clarifier",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/code-clarifier"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/code-consultant": {
+      "description": "Suggest improvements to optimize Python code performance.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/code-consultant.md",
+      "title": "Code consultant",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/code-consultant"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/corporate-clairvoyant": {
+      "description": "Extract insights, identify risks, and distill key information from long corporate reports into a single memo.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/corporate-clairvoyant.md",
+      "title": "Corporate clairvoyant",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/corporate-clairvoyant"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/cosmic-keystrokes": {
+      "description": "Generate an interactive speed typing game in a single HTML file, featuring side-scrolling gameplay and Tailwind CSS styling.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/cosmic-keystrokes.md",
+      "title": "Cosmic Keystrokes",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/cosmic-keystrokes"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/csv-converter": {
+      "description": "Convert data from various formats (JSON, XML, etc.) into properly formatted CSV files.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/csv-converter.md",
+      "title": "CSV converter",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/csv-converter"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/culinary-creator": {
+      "description": "Suggest recipe ideas based on the user's available ingredients and dietary preferences.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/culinary-creator.md",
+      "title": "Culinary creator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/culinary-creator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/data-organizer": {
+      "description": "Turn unstructured text into bespoke JSON tables.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/data-organizer.md",
+      "title": "Data organizer",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/data-organizer"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/direction-decoder": {
+      "description": "Transform natural language into step-by-step directions.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/direction-decoder.md",
+      "title": "Direction decoder",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/direction-decoder"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/dream-interpreter": {
+      "description": "Offer interpretations and insights into the symbolism of the user's dreams.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/dream-interpreter.md",
+      "title": "Dream interpreter",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/dream-interpreter"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/efficiency-estimator": {
+      "description": "Calculate the time complexity of functions and algorithms.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/efficiency-estimator.md",
+      "title": "Efficiency estimator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/efficiency-estimator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/email-extractor": {
+      "description": "Extract email addresses from a document into a JSON-formatted list.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/email-extractor.md",
+      "title": "Email extractor",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/email-extractor"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/emoji-encoder": {
+      "description": "Convert plain text into fun and expressive emoji messages.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/emoji-encoder.md",
+      "title": "Emoji encoder",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/emoji-encoder"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/ethical-dilemma-navigator": {
+      "description": "Help the user think through complex ethical dilemmas and provide different perspectives.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/ethical-dilemma-navigator.md",
+      "title": "Ethical dilemma navigator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/ethical-dilemma-navigator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/excel-formula-expert": {
+      "description": "Create Excel formulas based on user-described calculations or data manipulations.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/excel-formula-expert.md",
+      "title": "Excel formula expert",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/excel-formula-expert"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/function-fabricator": {
+      "description": "Create Python functions based on detailed specifications.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/function-fabricator.md",
+      "title": "Function fabricator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/function-fabricator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/futuristic-fashion-advisor": {
+      "description": "Suggest avant-garde fashion trends and styles for the user's specific preferences.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/futuristic-fashion-advisor.md",
+      "title": "Futuristic fashion advisor",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/futuristic-fashion-advisor"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/git-gud": {
+      "description": "Generate appropriate Git commands based on user-described version control actions.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/git-gud.md",
+      "title": "Git gud",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/git-gud"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/google-apps-scripter": {
+      "description": "Generate Google Apps scripts to complete tasks based on user requirements.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/google-apps-scripter.md",
+      "title": "Google apps scripter",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/google-apps-scripter"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/grading-guru": {
+      "description": "Compare and evaluate the quality of written texts based on user-defined criteria and standards.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/grading-guru.md",
+      "title": "Grading guru",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/grading-guru"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/grammar-genie": {
+      "description": "Transform grammatically incorrect sentences into proper English.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/grammar-genie.md",
+      "title": "Grammar genie",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/grammar-genie"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/hal-the-humorous-helper": {
+      "description": "Chat with a knowledgeable AI that has a sarcastic side.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/hal-the-humorous-helper.md",
+      "title": "Hal the humorous helper",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/hal-the-humorous-helper"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/idiom-illuminator": {
+      "description": "Explain the meaning and origin of common idioms and proverbs.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/idiom-illuminator.md",
+      "title": "Idiom illuminator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/idiom-illuminator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/interview-question-crafter": {
+      "description": "Generate questions for interviews.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/interview-question-crafter.md",
+      "title": "Interview question crafter",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/interview-question-crafter"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/latex-legend": {
+      "description": "Write LaTeX documents, generating code for mathematical equations, tables, and more.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/latex-legend.md",
+      "title": "LaTeX legend",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/latex-legend"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/lesson-planner": {
+      "description": "Craft in depth lesson plans on any subject.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/lesson-planner.md",
+      "title": "Lesson planner",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/lesson-planner"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/master-moderator": {
+      "description": "Evaluate user inputs for potential harmful or illegal content.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/master-moderator.md",
+      "title": "Master moderator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/master-moderator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/meeting-scribe": {
+      "description": "Distill meetings into concise summaries including discussion topics, key takeaways, and action items.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/meeting-scribe.md",
+      "title": "Meeting scribe",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/meeting-scribe"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/memo-maestro": {
+      "description": "Compose comprehensive company memos based on key points.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/memo-maestro.md",
+      "title": "Memo maestro",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/memo-maestro"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/mindfulness-mentor": {
+      "description": "Guide the user through mindfulness exercises and techniques for stress reduction.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/mindfulness-mentor.md",
+      "title": "Mindfulness mentor",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/mindfulness-mentor"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/mood-colorizer": {
+      "description": "Transform text descriptions of moods into corresponding HEX codes.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/mood-colorizer.md",
+      "title": "Mood colorizer",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/mood-colorizer"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/motivational-muse": {
+      "description": "Provide personalized motivational messages and affirmations based on user input.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/motivational-muse.md",
+      "title": "Motivational muse",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/motivational-muse"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/neologism-creator": {
+      "description": "Invent new words and provide their definitions based on user-provided concepts or ideas.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/neologism-creator.md",
+      "title": "Neologism creator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/neologism-creator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/perspectives-ponderer": {
+      "description": "Weigh the pros and cons of a user-provided topic.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/perspectives-ponderer.md",
+      "title": "Perspectives ponderer",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/perspectives-ponderer"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/philosophical-musings": {
+      "description": "Engage in deep philosophical discussions and thought experiments.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/philosophical-musings.md",
+      "title": "Philosophical musings",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/philosophical-musings"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/pii-purifier": {
+      "description": "Automatically detect and remove personally identifiable information (PII) from text documents.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/pii-purifier.md",
+      "title": "PII purifier",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/pii-purifier"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/polyglot-superpowers": {
+      "description": "Translate text from any language into any language.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/polyglot-superpowers.md",
+      "title": "Polyglot superpowers",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/polyglot-superpowers"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/portmanteau-poet": {
+      "description": "Blend two words together to create a new, meaningful portmanteau.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/portmanteau-poet.md",
+      "title": "Portmanteau poet",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/portmanteau-poet"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/product-naming-pro": {
+      "description": "Create catchy product names from descriptions and keywords.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/product-naming-pro.md",
+      "title": "Product naming pro",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/product-naming-pro"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/prose-polisher": {
+      "description": "Refine and improve written content with advanced copyediting techniques and suggestions.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/prose-polisher.md",
+      "title": "Prose polisher",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/prose-polisher"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/pun-dit": {
+      "description": "Generate clever puns and wordplay based on any given topic.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/pun-dit.md",
+      "title": "Pun-dit",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/pun-dit"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/python-bug-buster": {
+      "description": "Detect and fix bugs in Python code.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/python-bug-buster.md",
+      "title": "Python bug buster",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/python-bug-buster"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/review-classifier": {
+      "description": "Categorize feedback into pre-specified tags and categorizations.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/review-classifier.md",
+      "title": "Review classifier",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/review-classifier"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/riddle-me-this": {
+      "description": "Generate riddles and guide the user to the solutions.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/riddle-me-this.md",
+      "title": "Riddle me this",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/riddle-me-this"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/sci-fi-scenario-simulator": {
+      "description": "Discuss with the user various science fiction scenarios and associated challenges and considerations.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/sci-fi-scenario-simulator.md",
+      "title": "Sci-fi scenario simulator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/sci-fi-scenario-simulator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/second-grade-simplifier": {
+      "description": "Make complex text easy for young learners to understand.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/second-grade-simplifier.md",
+      "title": "Second-grade simplifier",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/second-grade-simplifier"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/simile-savant": {
+      "description": "Generate similes from basic descriptions.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/simile-savant.md",
+      "title": "Simile savant",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/simile-savant"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/socratic-sage": {
+      "description": "Engage in Socratic style conversation over a user-given topic.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/socratic-sage.md",
+      "title": "Socratic sage",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/socratic-sage"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/spreadsheet-sorcerer": {
+      "description": "Generate CSV spreadsheets with various types of data.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/spreadsheet-sorcerer.md",
+      "title": "Spreadsheet sorcerer",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/spreadsheet-sorcerer"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/sql-sorcerer": {
+      "description": "Transform everyday language into SQL queries.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/sql-sorcerer.md",
+      "title": "SQL sorcerer",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/sql-sorcerer"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/storytelling-sidekick": {
+      "description": "Collaboratively create engaging stories with the user, offering plot twists and character development.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/storytelling-sidekick.md",
+      "title": "Storytelling sidekick",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/storytelling-sidekick"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/time-travel-consultant": {
+      "description": "Help the user navigate hypothetical time travel scenarios and their implications.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/time-travel-consultant.md",
+      "title": "Time travel consultant",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/time-travel-consultant"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/tongue-twister": {
+      "description": "Create challenging tongue twisters.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/tongue-twister.md",
+      "title": "Tongue twister",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/tongue-twister"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/trivia-generator": {
+      "description": "Generate trivia questions on a wide range of topics and provide hints when needed.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/trivia-generator.md",
+      "title": "Trivia generator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/trivia-generator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/tweet-tone-detector": {
+      "description": "Detect the tone and sentiment behind tweets.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/tweet-tone-detector.md",
+      "title": "Tweet tone detector",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/tweet-tone-detector"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/vr-fitness-innovator": {
+      "description": "Brainstorm creative ideas for virtual reality fitness games.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/vr-fitness-innovator.md",
+      "title": "VR fitness innovator",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/vr-fitness-innovator"
+    },
+    "https://platform.claude.com/docs/en/resources/prompt-library/website-wizard": {
+      "description": "Create one-page websites based on user specifications.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "resources/prompt-library/website-wizard.md",
+      "title": "Website wizard",
+      "url": "https://platform.claude.com/docs/en/resources/prompt-library/website-wizard"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/define-success": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/define-success.md",
+      "title": "Define your success criteria",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/define-success"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/develop-tests": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/develop-tests.md",
+      "title": "Create strong empirical evaluations",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/develop-tests"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/eval-tool": {
+      "description": "The [Claude Console](/dashboard) features an **Evaluation tool** that allows you to test your prompts under various scenarios.",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/eval-tool.md",
+      "title": "Using the Evaluation Tool",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/eval-tool"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md",
+      "title": "Streaming refusals",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/strengthen-guardrails/increase-consistency.md",
+      "title": "Increase output consistency",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/keep-claude-in-character": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md",
+      "title": "Keep Claude in character with role prompting and prefilling",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/keep-claude-in-character"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks.md",
+      "title": "Mitigate jailbreaks and prompt injections",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md",
+      "title": "Reduce hallucinations",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-latency": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/strengthen-guardrails/reduce-latency.md",
+      "title": "Reducing latency",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-latency"
+    },
+    "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak": {
+      "description": "",
+      "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+      "lastmod": null,
+      "local_path": "test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md",
+      "title": "Reduce prompt leak",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak"
+    }
+  },
+  "meta": {
+    "last_sync_time": "2026-02-01T02:37:25.023340+00:00",
+    "last_url_count": 534
+  },
+  "version": 1
+}
