@@ -74,8 +74,8 @@
     },
     "https://code.claude.com/docs/en/data-usage": {
       "description": "Learn about Anthropic's data usage policies for Claude",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.832Z",
+      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
+      "lastmod": "2026-02-01T16:34:36.480Z",
       "local_path": "data-usage.md",
       "title": "Data usage",
       "url": "https://code.claude.com/docs/en/data-usage"
@@ -146,16 +146,16 @@
     },
     "https://code.claude.com/docs/en/hooks": {
       "description": "Reference for Claude Code hook events, configuration schema, JSON input/output formats, exit codes, async hooks, prompt hooks, and MCP tool hooks.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-31T02:37:56.148Z",
+      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
+      "lastmod": "2026-02-01T20:21:41.238Z",
       "local_path": "hooks.md",
       "title": "Hooks reference",
       "url": "https://code.claude.com/docs/en/hooks"
     },
     "https://code.claude.com/docs/en/hooks-guide": {
       "description": "Run shell commands automatically when Claude Code edits files, finishes tasks, or needs input. Format code, send notifications, validate commands, and enforce project rules.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-31T02:37:56.150Z",
+      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
+      "lastmod": "2026-02-01T20:21:41.236Z",
       "local_path": "hooks-guide.md",
       "title": "Automate workflows with hooks",
       "url": "https://code.claude.com/docs/en/hooks-guide"
@@ -178,8 +178,8 @@
     },
     "https://code.claude.com/docs/en/interactive-mode": {
       "description": "Complete reference for keyboard shortcuts, input modes, and interactive features in Claude Code sessions.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-31T02:48:28.859Z",
+      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
+      "lastmod": "2026-02-01T16:34:48.442Z",
       "local_path": "interactive-mode.md",
       "title": "Interactive mode",
       "url": "https://code.claude.com/docs/en/interactive-mode"
@@ -226,8 +226,8 @@
     },
     "https://code.claude.com/docs/en/memory": {
       "description": "Learn how to manage Claude Code's memory across sessions with different memory locations and best practices.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.874Z",
+      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
+      "lastmod": "2026-02-01T20:21:41.232Z",
       "local_path": "memory.md",
       "title": "Manage Claude's memory",
       "url": "https://code.claude.com/docs/en/memory"
@@ -330,8 +330,8 @@
     },
     "https://code.claude.com/docs/en/settings": {
       "description": "Configure Claude Code with global and project-level settings, and environment variables.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-31T02:37:58.758Z",
+      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
+      "lastmod": "2026-02-01T20:21:41.241Z",
       "local_path": "settings.md",
       "title": "Claude Code settings",
       "url": "https://code.claude.com/docs/en/settings"
@@ -402,15 +402,15 @@
     },
     "https://code.claude.com/docs/en/vs-code": {
       "description": "Install and configure the Claude Code extension for VS Code. Get AI coding assistance with inline diffs, @-mentions, plan review, and keyboard shortcuts.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.926Z",
+      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
+      "lastmod": "2026-02-01T20:21:41.234Z",
       "local_path": "vs-code.md",
       "title": "Use Claude Code in VS Code",
       "url": "https://code.claude.com/docs/en/vs-code"
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
+    "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
     "last_url_count": 51
   },
   "version": 1
