@@ -47,13 +47,13 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 
 ## Enterprise
 
-- [Identity and Access Management](iam.md) - Learn how to configure user authentication, authorization, and access controls for Claude Code in your organization.
 - [Manage costs effectively](costs.md) - Track token usage, set team spend limits, and reduce Claude Code costs with context management, model selection, extended thinking settings, and preprocessing hooks.
 - [Monitoring](monitoring-usage.md) - Learn how to enable and configure OpenTelemetry for Claude Code.
 - [Track team usage with analytics](analytics.md) - View Claude Code usage metrics, track adoption, and measure engineering velocity in the analytics dashboard.
 
 ## Security & Privacy
 
+- [Configure permissions](permissions.md) - Control what Claude Code can access and do with fine-grained permission rules, modes, and managed policies.
 - [Data usage](data-usage.md) - Learn about Anthropic's data usage policies for Claude
 - [Sandboxing](sandboxing.md) - Learn how Claude Code's sandboxed bash tool provides filesystem and network isolation for safer, more autonomous agent execution.
 - [Security](security.md) - Learn about Claude Code's security safeguards and best practices for safe usage.
@@ -70,6 +70,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 
 ## Other
 
+- [Authentication](authentication.md) - Learn how to configure user authentication and credential management for Claude Code in your organization.
 - [Claude Code in Slack](slack.md) - Delegate coding tasks directly from your Slack workspace
 - [Claude Code on the web](claude-code-on-the-web.md) - Run Claude Code tasks asynchronously on secure cloud infrastructure
 - [Create and distribute a plugin marketplace](plugin-marketplaces.md) - Build and host plugin marketplaces to distribute Claude Code extensions across teams and communities.

@@ -69,6 +69,7 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Using the Messages API](build-with-claude/working-with-messages.md) - Practical patterns and examples for using the Messages API effectively
 - [Vision](build-with-claude/vision.md) - Claude's vision capabilities allow it to understand and analyze images, opening up exciting possibilities for multimodal interaction.
 - [Workspaces](build-with-claude/workspaces.md) - Organize API keys, manage team access, and control costs with workspaces.
+- [Zero Data Retention (ZDR)](build-with-claude/zero-data-retention.md) - Learn about Anthropic's Zero Data Retention (ZDR) policy, including which API endpoints and features are ZDR-eligible.
 
 ## Agents And Tools
 
