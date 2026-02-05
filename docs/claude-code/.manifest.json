@@ -26,8 +26,8 @@
     },
     "https://code.claude.com/docs/en/best-practices": {
       "description": "Tips and patterns for getting the most out of Claude Code, from configuring your environment to scaling across parallel sessions.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.807Z",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-04T20:50:41.570Z",
       "local_path": "best-practices.md",
       "title": "Best Practices for Claude Code",
       "url": "https://code.claude.com/docs/en/best-practices"
@@ -41,9 +41,9 @@
       "url": "https://code.claude.com/docs/en/checkpointing"
     },
     "https://code.claude.com/docs/en/chrome": {
-      "description": "Connect Claude Code to your browser to test web apps, debug with console logs, and automate browser tasks.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.805Z",
+      "description": "Connect Claude Code to your Chrome browser to test web apps, debug with console logs, automate form filling, and extract data from web pages.",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-04T20:50:41.565Z",
       "local_path": "chrome.md",
       "title": "Use Claude Code with Chrome (beta)",
       "url": "https://code.claude.com/docs/en/chrome"
@@ -178,8 +178,8 @@
     },
     "https://code.claude.com/docs/en/interactive-mode": {
       "description": "Complete reference for keyboard shortcuts, input modes, and interactive features in Claude Code sessions.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T03:00:22.630Z",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-04T18:01:04.428Z",
       "local_path": "interactive-mode.md",
       "title": "Interactive mode",
       "url": "https://code.claude.com/docs/en/interactive-mode"
@@ -218,8 +218,8 @@
     },
     "https://code.claude.com/docs/en/mcp": {
       "description": "Learn how to connect Claude Code to your tools with the Model Context Protocol.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.875Z",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-05T00:09:03.086Z",
       "local_path": "mcp.md",
       "title": "Connect Claude Code to tools via MCP",
       "url": "https://code.claude.com/docs/en/mcp"
@@ -273,9 +273,9 @@
       "url": "https://code.claude.com/docs/en/output-styles"
     },
     "https://code.claude.com/docs/en/overview": {
-      "description": "Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:24:45.193Z",
+      "description": "Learn about Claude Code, Anthropic's agentic coding tool that works in your terminal, IDE, desktop app, and browser to help you turn ideas into code faster than ever before.",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-04T23:57:06.213Z",
       "local_path": "overview.md",
       "title": "Claude Code overview",
       "url": "https://code.claude.com/docs/en/overview"
@@ -338,16 +338,16 @@
     },
     "https://code.claude.com/docs/en/settings": {
       "description": "Configure Claude Code with global and project-level settings, and environment variables.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:24:45.203Z",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-05T00:09:03.092Z",
       "local_path": "settings.md",
       "title": "Claude Code settings",
       "url": "https://code.claude.com/docs/en/settings"
     },
     "https://code.claude.com/docs/en/setup": {
       "description": "Install, authenticate, and start using Claude Code on your development machine.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T20:20:13.257Z",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-04T18:02:58.128Z",
       "local_path": "setup.md",
       "title": "Set up Claude Code",
       "url": "https://code.claude.com/docs/en/setup"
@@ -410,15 +410,15 @@
     },
     "https://code.claude.com/docs/en/vs-code": {
       "description": "Install and configure the Claude Code extension for VS Code. Get AI coding assistance with inline diffs, @-mentions, plan review, and keyboard shortcuts.",
-      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
-      "lastmod": "2026-02-01T20:21:41.234Z",
+      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
+      "lastmod": "2026-02-04T20:50:41.568Z",
       "local_path": "vs-code.md",
       "title": "Use Claude Code in VS Code",
       "url": "https://code.claude.com/docs/en/vs-code"
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
+    "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
     "last_url_count": 52
   },
   "version": 1

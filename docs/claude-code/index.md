@@ -10,7 +10,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 
 ## Getting Started
 
-- [Claude Code overview](overview.md) - Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.
+- [Claude Code overview](overview.md) - Learn about Claude Code, Anthropic's agentic coding tool that works in your terminal, IDE, desktop app, and browser to help you turn ideas into code faster than ever before.
 - [Extend Claude Code](features-overview.md) - Understand when to use CLAUDE.md, Skills, subagents, hooks, MCP, and plugins.
 - [Quickstart](quickstart.md) - Welcome to Claude Code!
 - [Set up Claude Code](setup.md) - Install, authenticate, and start using Claude Code on your development machine.
@@ -31,7 +31,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 - [Development containers](devcontainer.md) - Learn about the Claude Code development container for teams that need consistent, secure environments.
 - [JetBrains IDEs](jetbrains.md) - Use Claude Code with JetBrains IDEs including IntelliJ, PyCharm, WebStorm, and more
 - [Use Claude Code in VS Code](vs-code.md) - Install and configure the Claude Code extension for VS Code. Get AI coding assistance with inline diffs, @-mentions, plan review, and keyboard shortcuts.
-- [Use Claude Code with Chrome (beta)](chrome.md) - Connect Claude Code to your browser to test web apps, debug with console logs, and automate browser tasks.
+- [Use Claude Code with Chrome (beta)](chrome.md) - Connect Claude Code to your Chrome browser to test web apps, debug with console logs, automate form filling, and extract data from web pages.
 
 ## CI/CD
 
