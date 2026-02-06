@@ -20,15 +20,16 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Customer support agent](about-claude/use-case-guides/customer-support-chat.md) - This guide walks through how to leverage Claude's advanced conversational capabilities to handle customer inquiries in real time, providing 24/7 support, reducing wait times, and managing high support volumes with accurate responses and positive interactions.
 - [Glossary](about-claude/glossary.md) - These concepts are not unique to Anthropic’s language models, but we present a brief summary of key terms below.
 - [Legal summarization](about-claude/use-case-guides/legal-summarization.md) - This guide walks through how to leverage Claude's advanced natural language processing capabilities to efficiently summarize legal documents, extracting key information and expediting legal research. With Claude, you can streamline the review of contracts, litigation prep, and regulatory work, saving time and ensuring accuracy in your legal processes.
-- [Migrating to Claude 4.5](about-claude/models/migrating-to-claude-4.md)
+- [Migration guide](about-claude/models/migration-guide.md) - Guide for migrating to Claude 4.6 models from previous Claude versions
 - [Model deprecations](about-claude/model-deprecations.md)
 - [Models overview](about-claude/models/overview.md) - Claude is a family of state-of-the-art large language models developed by Anthropic. This guide introduces our models and compares their performance.
 - [Pricing](about-claude/pricing.md) - Learn about Anthropic's pricing structure for models and features
 - [Ticket routing](about-claude/use-case-guides/ticket-routing.md) - This guide walks through how to harness Claude's advanced natural language understanding capabilities to classify customer support tickets at scale based on customer intent, urgency, prioritization, customer profile, and more.
-- [What's new in Claude 4.5](about-claude/models/whats-new-claude-4-5.md)
+- [What's new in Claude 4.6](about-claude/models/whats-new-claude-4-6.md) - Overview of new features and capabilities in Claude Opus 4.6.
 
 ## Build With Claude
 
+- [Adaptive thinking](build-with-claude/adaptive-thinking.md) - Let Claude dynamically decide when and how much to think with adaptive thinking mode.
 - [Admin API overview](build-with-claude/administration-api.md)
 - [Automatically generate first draft prompt templates](build-with-claude/prompt-engineering/prompt-generator.md)
 - [Batch processing](build-with-claude/batch-processing.md)
@@ -40,22 +41,24 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Claude in Microsoft Foundry](build-with-claude/claude-in-microsoft-foundry.md) - Access Claude models through Microsoft Foundry with Azure-native endpoints and authentication.
 - [Claude on Amazon Bedrock](build-with-claude/claude-on-amazon-bedrock.md) - Anthropic's Claude models are now generally available through Amazon Bedrock.
 - [Claude on Vertex AI](build-with-claude/claude-on-vertex-ai.md) - Anthropic's Claude models are now generally available through [Vertex AI](https://cloud.google.com/vertex-ai).
+- [Compaction](build-with-claude/compaction.md) - Server-side context compaction for managing long conversations that approach context window limits.
 - [Context editing](build-with-claude/context-editing.md) - Automatically manage conversation context as it grows with context editing.
 - [Context windows](build-with-claude/context-windows.md)
+- [Data residency](build-with-claude/data-residency.md) - Manage where model inference runs and where data is stored with geographic controls.
 - [Effort](build-with-claude/effort.md) - Control how many tokens Claude uses when responding with the effort parameter, trading off between response thoroughness and token efficiency.
 - [Embeddings](build-with-claude/embeddings.md) - Text embeddings are numerical representations of text that enable measuring semantic similarity. This guide introduces embeddings, their applications, and how to use embedding models for tasks like search, recommendations, and anomaly detection.
 - [Extended thinking tips](build-with-claude/prompt-engineering/extended-thinking-tips.md)
 - [Features overview](build-with-claude/overview.md) - Explore Claude's advanced features and capabilities.
 - [Files API](build-with-claude/files.md)
 - [Giving Claude a role with a system prompt](build-with-claude/prompt-engineering/system-prompts.md)
+- [Handling stop reasons](build-with-claude/handling-stop-reasons.md)
 - [Let Claude think (chain of thought prompting) to increase performance](build-with-claude/prompt-engineering/chain-of-thought.md)
 - [Long context prompting tips](build-with-claude/prompt-engineering/long-context-tips.md)
 - [Multilingual support](build-with-claude/multilingual-support.md) - Claude excels at tasks across multiple languages, maintaining strong cross-lingual performance relative to English.
 - [PDF support](build-with-claude/pdf-support.md) - Process PDFs with Claude. Extract text, analyze charts, and understand visual content from your documents.
-- [Prefill Claude's response for greater output control](build-with-claude/prompt-engineering/prefill-claudes-response.md)
 - [Prompt caching](build-with-claude/prompt-caching.md)
 - [Prompt engineering overview](build-with-claude/prompt-engineering/overview.md)
-- [Prompting best practices](build-with-claude/prompt-engineering/claude-4-best-practices.md)
+- [Prompting best practices](build-with-claude/prompt-engineering/claude-prompting-best-practices.md)
 - [Search results](build-with-claude/search-results.md) - Enable natural citations for RAG applications by providing search results with source attribution
 - [Streaming Messages](build-with-claude/streaming.md)
 - [Structured outputs](build-with-claude/structured-outputs.md) - Get validated JSON results from agent workflows
@@ -103,6 +106,7 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Custom Tools](agent-sdk/custom-tools.md) - Build and integrate custom tools to extend Claude Agent SDK functionality
 - [Get structured output from agents](agent-sdk/structured-outputs.md) - Return validated JSON from agent workflows using JSON Schema, Zod, or Pydantic. Get type-safe, structured data after multi-turn tool use.
 - [Handle approvals and user input](agent-sdk/user-input.md) - Surface Claude's approval requests and clarifying questions to users, then return their decisions to the SDK.
+- [Handling stop reasons](agent-sdk/stop-reasons.md) - Detect refusals and other stop reasons directly from result messages in the Agent SDK
 - [Hosting the Agent SDK](agent-sdk/hosting.md) - Deploy and host Claude Agent SDK in production environments
 - [Intercept and control agent behavior with hooks](agent-sdk/hooks.md) - Intercept and customize agent behavior at key execution points with hooks
 - [Migrate to Claude Agent SDK](agent-sdk/migration-guide.md) - Guide for migrating the Claude Code TypeScript and Python SDKs to the Claude Agent SDK

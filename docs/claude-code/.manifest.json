@@ -1,5 +1,13 @@
 {
   "entries": {
+    "https://code.claude.com/docs/en/agent-teams": {
+      "description": "Coordinate multiple Claude Code instances working together as a team, with shared tasks, inter-agent messaging, and centralized management.",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:50:16.211Z",
+      "local_path": "agent-teams.md",
+      "title": "Orchestrate teams of Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/agent-teams"
+    },
     "https://code.claude.com/docs/en/amazon-bedrock": {
       "description": "Learn about configuring Claude Code through Amazon Bedrock, including setup, IAM configuration, and troubleshooting.",
       "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
@@ -10,8 +18,8 @@
     },
     "https://code.claude.com/docs/en/analytics": {
       "description": "View Claude Code usage metrics, track adoption, and measure engineering velocity in the analytics dashboard.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T03:00:22.468Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T22:59:38.916Z",
       "local_path": "analytics.md",
       "title": "Track team usage with analytics",
       "url": "https://code.claude.com/docs/en/analytics"
@@ -26,8 +34,8 @@
     },
     "https://code.claude.com/docs/en/best-practices": {
       "description": "Tips and patterns for getting the most out of Claude Code, from configuring your environment to scaling across parallel sessions.",
-      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
-      "lastmod": "2026-02-04T20:50:41.570Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T23:03:43.822Z",
       "local_path": "best-practices.md",
       "title": "Best Practices for Claude Code",
       "url": "https://code.claude.com/docs/en/best-practices"
@@ -58,24 +66,24 @@
     },
     "https://code.claude.com/docs/en/cli-reference": {
       "description": "Complete reference for Claude Code command-line interface, including commands and flags.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:24:45.140Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:50:16.244Z",
       "local_path": "cli-reference.md",
       "title": "CLI reference",
       "url": "https://code.claude.com/docs/en/cli-reference"
     },
     "https://code.claude.com/docs/en/common-workflows": {
       "description": "Step-by-step guides for exploring codebases, fixing bugs, refactoring, testing, and other everyday tasks with Claude Code.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:24:45.144Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T18:33:59.781Z",
       "local_path": "common-workflows.md",
       "title": "Common workflows",
       "url": "https://code.claude.com/docs/en/common-workflows"
     },
     "https://code.claude.com/docs/en/costs": {
       "description": "Track token usage, set team spend limits, and reduce Claude Code costs with context management, model selection, extended thinking settings, and preprocessing hooks.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.833Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:46:07.150Z",
       "local_path": "costs.md",
       "title": "Manage costs effectively",
       "url": "https://code.claude.com/docs/en/costs"
@@ -114,16 +122,16 @@
     },
     "https://code.claude.com/docs/en/features-overview": {
       "description": "Understand when to use CLAUDE.md, Skills, subagents, hooks, MCP, and plugins.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-31T02:37:55.326Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:50:16.275Z",
       "local_path": "features-overview.md",
       "title": "Extend Claude Code",
       "url": "https://code.claude.com/docs/en/features-overview"
     },
     "https://code.claude.com/docs/en/github-actions": {
       "description": "Learn about integrating Claude Code into your development workflow with Claude Code GitHub Actions",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:24:45.141Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:46:07.147Z",
       "local_path": "github-actions.md",
       "title": "Claude Code GitHub Actions",
       "url": "https://code.claude.com/docs/en/github-actions"
@@ -138,8 +146,8 @@
     },
     "https://code.claude.com/docs/en/google-vertex-ai": {
       "description": "Learn about configuring Claude Code through Google Vertex AI, including setup, IAM configuration, and troubleshooting.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:24:45.145Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:46:07.148Z",
       "local_path": "google-vertex-ai.md",
       "title": "Claude Code on Google Vertex AI",
       "url": "https://code.claude.com/docs/en/google-vertex-ai"
@@ -170,16 +178,16 @@
     },
     "https://code.claude.com/docs/en/how-claude-code-works": {
       "description": "Understand the agentic loop, built-in tools, and how Claude Code interacts with your project.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T03:00:22.635Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:50:16.277Z",
       "local_path": "how-claude-code-works.md",
       "title": "How Claude Code works",
       "url": "https://code.claude.com/docs/en/how-claude-code-works"
     },
     "https://code.claude.com/docs/en/interactive-mode": {
       "description": "Complete reference for keyboard shortcuts, input modes, and interactive features in Claude Code sessions.",
-      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
-      "lastmod": "2026-02-04T18:01:04.428Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:46:07.152Z",
       "local_path": "interactive-mode.md",
       "title": "Interactive mode",
       "url": "https://code.claude.com/docs/en/interactive-mode"
@@ -234,16 +242,16 @@
     },
     "https://code.claude.com/docs/en/microsoft-foundry": {
       "description": "Learn about configuring Claude Code through Microsoft Foundry, including setup, configuration, and troubleshooting.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.876Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:46:07.151Z",
       "local_path": "microsoft-foundry.md",
       "title": "Claude Code on Microsoft Foundry",
       "url": "https://code.claude.com/docs/en/microsoft-foundry"
     },
     "https://code.claude.com/docs/en/model-config": {
       "description": "Learn about the Claude Code model configuration, including model aliases like `opusplan`",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.873Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T18:33:59.780Z",
       "local_path": "model-config.md",
       "title": "Model configuration",
       "url": "https://code.claude.com/docs/en/model-config"
@@ -282,32 +290,32 @@
     },
     "https://code.claude.com/docs/en/permissions": {
       "description": "Control what Claude Code can access and do with fine-grained permission rules, modes, and managed policies.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:23:38.001Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T17:50:17.318Z",
       "local_path": "permissions.md",
       "title": "Configure permissions",
       "url": "https://code.claude.com/docs/en/permissions"
     },
     "https://code.claude.com/docs/en/plugin-marketplaces": {
       "description": "Build and host plugin marketplaces to distribute Claude Code extensions across teams and communities.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.878Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T21:43:32.422Z",
       "local_path": "plugin-marketplaces.md",
       "title": "Create and distribute a plugin marketplace",
       "url": "https://code.claude.com/docs/en/plugin-marketplaces"
     },
     "https://code.claude.com/docs/en/plugins": {
       "description": "Create custom plugins to extend Claude Code with skills, agents, hooks, and MCP servers.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-31T02:37:58.738Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T21:43:32.417Z",
       "local_path": "plugins.md",
       "title": "Create plugins",
       "url": "https://code.claude.com/docs/en/plugins"
     },
     "https://code.claude.com/docs/en/plugins-reference": {
       "description": "Complete technical reference for Claude Code plugin system, including schemas, CLI commands, and component specifications.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-31T02:37:58.735Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T21:43:32.485Z",
       "local_path": "plugins-reference.md",
       "title": "Plugins reference",
       "url": "https://code.claude.com/docs/en/plugins-reference"
@@ -338,8 +346,8 @@
     },
     "https://code.claude.com/docs/en/settings": {
       "description": "Configure Claude Code with global and project-level settings, and environment variables.",
-      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
-      "lastmod": "2026-02-05T00:09:03.092Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T23:03:44.032Z",
       "local_path": "settings.md",
       "title": "Claude Code settings",
       "url": "https://code.claude.com/docs/en/settings"
@@ -369,17 +377,17 @@
       "url": "https://code.claude.com/docs/en/slack"
     },
     "https://code.claude.com/docs/en/statusline": {
-      "description": "Create a custom status line for Claude Code to display contextual information",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.903Z",
+      "description": "Configure a custom status bar to monitor context window usage, costs, and git status in Claude Code",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T23:03:44.079Z",
       "local_path": "statusline.md",
-      "title": "Status line configuration",
+      "title": "Customize your status line",
       "url": "https://code.claude.com/docs/en/statusline"
     },
     "https://code.claude.com/docs/en/sub-agents": {
       "description": "Create and use specialized AI subagents in Claude Code for task-specific workflows and improved context management.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T03:00:25.987Z",
+      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+      "lastmod": "2026-02-05T21:43:32.438Z",
       "local_path": "sub-agents.md",
       "title": "Create custom subagents",
       "url": "https://code.claude.com/docs/en/sub-agents"
@@ -418,8 +426,8 @@
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
-    "last_url_count": 52
+    "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+    "last_url_count": 53
   },
   "version": 1
 }

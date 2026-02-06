@@ -76,6 +76,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 - [Create and distribute a plugin marketplace](plugin-marketplaces.md) - Build and host plugin marketplaces to distribute Claude Code extensions across teams and communities.
 - [Create custom subagents](sub-agents.md) - Create and use specialized AI subagents in Claude Code for task-specific workflows and improved context management.
 - [Customize keyboard shortcuts](keybindings.md) - Customize keyboard shortcuts in Claude Code with a keybindings configuration file.
+- [Customize your status line](statusline.md) - Configure a custom status bar to monitor context window usage, costs, and git status in Claude Code
 - [Enterprise deployment overview](third-party-integrations.md) - Learn how Claude Code can integrate with various third-party services and infrastructure to meet enterprise deployment requirements.
 - [Enterprise network configuration](network-config.md) - Configure Claude Code for enterprise environments with proxy servers, custom Certificate Authorities (CA), and mutual Transport Layer Security (mTLS) authentication.
 - [Extend Claude with skills](skills.md) - Create, manage, and share skills to extend Claude's capabilities in Claude Code. Includes custom slash commands.
@@ -85,7 +86,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 - [Legal and compliance](legal-and-compliance.md) - Legal agreements, compliance certifications, and security information for Claude Code.
 - [Model configuration](model-config.md) - Learn about the Claude Code model configuration, including model aliases like `opusplan`
 - [Optimize your terminal setup](terminal-config.md) - Claude Code works best when your terminal is properly configured. Follow these guidelines to optimize your experience.
+- [Orchestrate teams of Claude Code sessions](agent-teams.md) - Coordinate multiple Claude Code instances working together as a team, with shared tasks, inter-agent messaging, and centralized management.
 - [Output styles](output-styles.md) - Adapt Claude Code for uses beyond software engineering
 - [Plugins reference](plugins-reference.md) - Complete technical reference for Claude Code plugin system, including schemas, CLI commands, and component specifications.
-- [Status line configuration](statusline.md) - Create a custom status line for Claude Code to display contextual information
 - [Troubleshooting](troubleshooting.md) - Discover solutions to common issues with Claude Code installation and usage.
