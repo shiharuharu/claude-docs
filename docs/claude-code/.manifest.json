@@ -2,16 +2,16 @@
   "entries": {
     "https://code.claude.com/docs/en/agent-teams": {
       "description": "Coordinate multiple Claude Code instances working together as a team, with shared tasks, inter-agent messaging, and centralized management.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T17:50:16.211Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:19.077Z",
       "local_path": "agent-teams.md",
       "title": "Orchestrate teams of Claude Code sessions",
       "url": "https://code.claude.com/docs/en/agent-teams"
     },
     "https://code.claude.com/docs/en/amazon-bedrock": {
       "description": "Learn about configuring Claude Code through Amazon Bedrock, including setup, IAM configuration, and troubleshooting.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-04T00:24:45.138Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-06T18:57:54.586Z",
       "local_path": "amazon-bedrock.md",
       "title": "Claude Code on Amazon Bedrock",
       "url": "https://code.claude.com/docs/en/amazon-bedrock"
@@ -34,16 +34,16 @@
     },
     "https://code.claude.com/docs/en/best-practices": {
       "description": "Tips and patterns for getting the most out of Claude Code, from configuring your environment to scaling across parallel sessions.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T23:03:43.822Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-06T19:30:56.286Z",
       "local_path": "best-practices.md",
       "title": "Best Practices for Claude Code",
       "url": "https://code.claude.com/docs/en/best-practices"
     },
     "https://code.claude.com/docs/en/checkpointing": {
-      "description": "Automatically track and rewind Claude's edits to quickly recover from unwanted changes.",
-      "last_sync_time": "2026-02-01T02:43:17.770612+00:00",
-      "lastmod": "2026-01-28T13:17:42.808Z",
+      "description": "Track, rewind, and summarize Claude's edits and conversation to manage session state.",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:19.104Z",
       "local_path": "checkpointing.md",
       "title": "Checkpointing",
       "url": "https://code.claude.com/docs/en/checkpointing"
@@ -66,8 +66,8 @@
     },
     "https://code.claude.com/docs/en/cli-reference": {
       "description": "Complete reference for Claude Code command-line interface, including commands and flags.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T17:50:16.244Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:19.107Z",
       "local_path": "cli-reference.md",
       "title": "CLI reference",
       "url": "https://code.claude.com/docs/en/cli-reference"
@@ -162,32 +162,32 @@
     },
     "https://code.claude.com/docs/en/hooks": {
       "description": "Reference for Claude Code hook events, configuration schema, JSON input/output formats, exit codes, async hooks, prompt hooks, and MCP tool hooks.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T03:00:22.663Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:19.136Z",
       "local_path": "hooks.md",
       "title": "Hooks reference",
       "url": "https://code.claude.com/docs/en/hooks"
     },
     "https://code.claude.com/docs/en/hooks-guide": {
       "description": "Run shell commands automatically when Claude Code edits files, finishes tasks, or needs input. Format code, send notifications, validate commands, and enforce project rules.",
-      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
-      "lastmod": "2026-02-01T20:21:41.236Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:19.132Z",
       "local_path": "hooks-guide.md",
       "title": "Automate workflows with hooks",
       "url": "https://code.claude.com/docs/en/hooks-guide"
     },
     "https://code.claude.com/docs/en/how-claude-code-works": {
       "description": "Understand the agentic loop, built-in tools, and how Claude Code interacts with your project.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T17:50:16.277Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:19.134Z",
       "local_path": "how-claude-code-works.md",
       "title": "How Claude Code works",
       "url": "https://code.claude.com/docs/en/how-claude-code-works"
     },
     "https://code.claude.com/docs/en/interactive-mode": {
       "description": "Complete reference for keyboard shortcuts, input modes, and interactive features in Claude Code sessions.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T17:46:07.152Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-06T19:30:56.283Z",
       "local_path": "interactive-mode.md",
       "title": "Interactive mode",
       "url": "https://code.claude.com/docs/en/interactive-mode"
@@ -202,8 +202,8 @@
     },
     "https://code.claude.com/docs/en/keybindings": {
       "description": "Customize keyboard shortcuts in Claude Code with a keybindings configuration file.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T15:22:08.678Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-06T19:30:56.280Z",
       "local_path": "keybindings.md",
       "title": "Customize keyboard shortcuts",
       "url": "https://code.claude.com/docs/en/keybindings"
@@ -234,8 +234,8 @@
     },
     "https://code.claude.com/docs/en/memory": {
       "description": "Learn how to manage Claude Code's memory across sessions with different memory locations and best practices.",
-      "last_sync_time": "2026-02-02T00:34:53.113975+00:00",
-      "lastmod": "2026-02-01T20:21:41.232Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:23.736Z",
       "local_path": "memory.md",
       "title": "Manage Claude's memory",
       "url": "https://code.claude.com/docs/en/memory"
@@ -314,8 +314,8 @@
     },
     "https://code.claude.com/docs/en/plugins-reference": {
       "description": "Complete technical reference for Claude Code plugin system, including schemas, CLI commands, and component specifications.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T21:43:32.485Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:23.764Z",
       "local_path": "plugins-reference.md",
       "title": "Plugins reference",
       "url": "https://code.claude.com/docs/en/plugins-reference"
@@ -346,8 +346,8 @@
     },
     "https://code.claude.com/docs/en/settings": {
       "description": "Configure Claude Code with global and project-level settings, and environment variables.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T23:03:44.032Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:23.804Z",
       "local_path": "settings.md",
       "title": "Claude Code settings",
       "url": "https://code.claude.com/docs/en/settings"
@@ -362,8 +362,8 @@
     },
     "https://code.claude.com/docs/en/skills": {
       "description": "Create, manage, and share skills to extend Claude's capabilities in Claude Code. Includes custom slash commands.",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T03:00:25.943Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:23.798Z",
       "local_path": "skills.md",
       "title": "Extend Claude with skills",
       "url": "https://code.claude.com/docs/en/skills"
@@ -386,8 +386,8 @@
     },
     "https://code.claude.com/docs/en/sub-agents": {
       "description": "Create and use specialized AI subagents in Claude Code for task-specific workflows and improved context management.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T21:43:32.438Z",
+      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
+      "lastmod": "2026-02-07T00:03:23.803Z",
       "local_path": "sub-agents.md",
       "title": "Create custom subagents",
       "url": "https://code.claude.com/docs/en/sub-agents"
@@ -426,7 +426,7 @@
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
+    "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
     "last_url_count": 53
   },
   "version": 1

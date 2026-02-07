@@ -162,6 +162,7 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Beta](api/go/beta.md)
 - [Beta](api/ruby/beta.md)
 - [Beta headers](api/beta-headers.md) - Documentation for using beta headers with the Claude API
+- [C# SDK](api/sdks/csharp.md) - Install and configure the Anthropic C# SDK for .NET applications with IChatClient integration
 - [Cancel](api/messages/batches/cancel.md)
 - [Cancel](api/beta/messages/batches/cancel.md)
 - [Cancel](api/typescript/messages/batches/cancel.md)
@@ -174,7 +175,7 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Cancel](api/go/beta/messages/batches/cancel.md)
 - [Cancel](api/ruby/messages/batches/cancel.md)
 - [Cancel](api/ruby/beta/messages/batches/cancel.md)
-- [Client SDKs](api/client-sdks.md) - We provide client libraries in a number of popular languages that make it easier to work with the Claude API.
+- [Client SDKs](api/client-sdks.md) - Official SDKs for building with the Claude API in Python, TypeScript, Java, Go, Ruby, C#, and PHP.
 - [Completions](api/completions.md)
 - [Completions](api/typescript/completions.md)
 - [Completions](api/python/completions.md)
@@ -285,8 +286,10 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Files](api/java/beta/files.md)
 - [Files](api/go/beta/files.md)
 - [Files](api/ruby/beta/files.md)
+- [Go SDK](api/sdks/go.md) - Install and configure the Anthropic Go SDK with context-based cancellation and functional options
 - [IP addresses](api/ip-addresses.md) - Anthropic services use fixed IP addresses for both inbound and outbound connections. You can use these addresses to configure your firewall rules for secure access to the Claude API and Console. These addresses will not change without notice.
 - [Invites](api/admin/invites.md)
+- [Java SDK](api/sdks/java.md) - Install and configure the Anthropic Java SDK with builder patterns and async support
 - [List](api/messages/batches/list.md)
 - [List](api/models/list.md)
 - [List](api/beta/models/list.md)
@@ -362,6 +365,8 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Models](api/ruby/beta/models.md)
 - [OpenAI SDK compatibility](api/openai-sdk.md) - Anthropic provides a compatibility layer that enables you to use the OpenAI SDK to test the Claude API. With a few code changes, you can quickly evaluate Anthropic model capabilities.
 - [Organizations](api/admin/organizations.md)
+- [PHP SDK](api/sdks/php.md) - Install and configure the Anthropic PHP SDK with value objects and builder patterns
+- [Python SDK](api/sdks/python.md) - Install and configure the Anthropic Python SDK with sync and async client support
 - [Rate limits](api/rate-limits.md) - To mitigate misuse and manage capacity on our API, we have implemented limits on how much an organization can use the Claude API.
 - [Results](api/messages/batches/results.md)
 - [Results](api/beta/messages/batches/results.md)
@@ -425,6 +430,7 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Retrieve_Metadata](api/java/beta/files/retrieve_metadata.md)
 - [Retrieve_Metadata](api/go/beta/files/retrieve_metadata.md)
 - [Retrieve_Metadata](api/ruby/beta/files/retrieve_metadata.md)
+- [Ruby SDK](api/sdks/ruby.md) - Install and configure the Anthropic Ruby SDK with Sorbet types, streaming helpers, and connection pooling
 - [Service tiers](api/service-tiers.md) - Different tiers of service allow you to balance availability, performance, and predictable costs based on your application's needs.
 - [Skills](api/beta/skills.md)
 - [Skills](api/typescript/beta/skills.md)
@@ -433,6 +439,7 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Skills](api/go/beta/skills.md)
 - [Skills](api/ruby/beta/skills.md)
 - [Supported regions](api/supported-regions.md) - Here are the countries, regions, and territories we can currently support access from:
+- [TypeScript SDK](api/sdks/typescript.md) - Install and configure the Anthropic TypeScript SDK for Node.js, Deno, Bun, and browser environments
 - [Update](api/admin/users/update.md)
 - [Update](api/admin/workspaces/update.md)
 - [Update](api/admin/workspaces/members/update.md)

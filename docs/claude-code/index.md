@@ -61,7 +61,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 ## Advanced
 
 - [Best Practices for Claude Code](best-practices.md) - Tips and patterns for getting the most out of Claude Code, from configuring your environment to scaling across parallel sessions.
-- [Checkpointing](checkpointing.md) - Automatically track and rewind Claude's edits to quickly recover from unwanted changes.
+- [Checkpointing](checkpointing.md) - Track, rewind, and summarize Claude's edits and conversation to manage session state.
 
 ## Extensions
 
