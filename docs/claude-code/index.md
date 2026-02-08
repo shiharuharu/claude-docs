@@ -89,4 +89,5 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 - [Orchestrate teams of Claude Code sessions](agent-teams.md) - Coordinate multiple Claude Code instances working together as a team, with shared tasks, inter-agent messaging, and centralized management.
 - [Output styles](output-styles.md) - Adapt Claude Code for uses beyond software engineering
 - [Plugins reference](plugins-reference.md) - Complete technical reference for Claude Code plugin system, including schemas, CLI commands, and component specifications.
+- [Speed up responses with fast mode](fast-mode.md) - Get faster Opus 4.6 responses in Claude Code by toggling fast mode.
 - [Troubleshooting](troubleshooting.md) - Discover solutions to common issues with Claude Code installation and usage.

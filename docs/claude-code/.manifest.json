@@ -120,6 +120,14 @@
       "title": "Discover and install prebuilt plugins through marketplaces",
       "url": "https://code.claude.com/docs/en/discover-plugins"
     },
+    "https://code.claude.com/docs/en/fast-mode": {
+      "description": "Get faster Opus 4.6 responses in Claude Code by toggling fast mode.",
+      "last_sync_time": "2026-02-08T00:42:21.568767+00:00",
+      "lastmod": "2026-02-07T18:24:11.262Z",
+      "local_path": "fast-mode.md",
+      "title": "Speed up responses with fast mode",
+      "url": "https://code.claude.com/docs/en/fast-mode"
+    },
     "https://code.claude.com/docs/en/features-overview": {
       "description": "Understand when to use CLAUDE.md, Skills, subagents, hooks, MCP, and plugins.",
       "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
@@ -426,8 +434,8 @@
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
-    "last_url_count": 53
+    "last_sync_time": "2026-02-08T00:42:21.568767+00:00",
+    "last_url_count": 54
   },
   "version": 1
 }

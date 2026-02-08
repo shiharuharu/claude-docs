@@ -48,6 +48,7 @@ This is a mirror of the [Claude Platform documentation](https://platform.claude.
 - [Effort](build-with-claude/effort.md) - Control how many tokens Claude uses when responding with the effort parameter, trading off between response thoroughness and token efficiency.
 - [Embeddings](build-with-claude/embeddings.md) - Text embeddings are numerical representations of text that enable measuring semantic similarity. This guide introduces embeddings, their applications, and how to use embedding models for tasks like search, recommendations, and anomaly detection.
 - [Extended thinking tips](build-with-claude/prompt-engineering/extended-thinking-tips.md)
+- [Fast mode (research preview)](build-with-claude/fast-mode.md) - Higher output speed for Claude Opus 4.6, delivering significantly faster token generation for latency-sensitive and agentic workflows.
 - [Features overview](build-with-claude/overview.md) - Explore Claude's advanced features and capabilities.
 - [Files API](build-with-claude/files.md)
 - [Giving Claude a role with a system prompt](build-with-claude/prompt-engineering/system-prompts.md)
