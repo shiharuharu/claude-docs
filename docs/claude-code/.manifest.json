@@ -258,8 +258,8 @@
     },
     "https://code.claude.com/docs/en/model-config": {
       "description": "Learn about the Claude Code model configuration, including model aliases like `opusplan`",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T18:33:59.780Z",
+      "last_sync_time": "2026-02-09T00:35:58.203629+00:00",
+      "lastmod": "2026-02-08T23:37:06.524Z",
       "local_path": "model-config.md",
       "title": "Model configuration",
       "url": "https://code.claude.com/docs/en/model-config"
@@ -434,7 +434,7 @@
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-08T00:42:21.568767+00:00",
+    "last_sync_time": "2026-02-09T00:35:58.203629+00:00",
     "last_url_count": 54
   },
   "version": 1
