@@ -10,7 +10,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 
 ## Getting Started
 
-- [Claude Code overview](overview.md) - Learn about Claude Code, Anthropic's agentic coding tool that works in your terminal, IDE, desktop app, and browser to help you turn ideas into code faster than ever before.
+- [Claude Code overview](overview.md) - Claude Code is an agentic coding tool that reads your codebase, edits files, runs commands, and integrates with your development tools. Available in your terminal, IDE, desktop app, and browser.
 - [Extend Claude Code](features-overview.md) - Understand when to use CLAUDE.md, Skills, subagents, hooks, MCP, and plugins.
 - [Quickstart](quickstart.md) - Welcome to Claude Code!
 - [Set up Claude Code](setup.md) - Install, authenticate, and start using Claude Code on your development machine.
