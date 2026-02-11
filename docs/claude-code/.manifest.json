@@ -98,8 +98,8 @@
     },
     "https://code.claude.com/docs/en/desktop": {
       "description": "Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app",
-      "last_sync_time": "2026-02-04T00:31:26.156906+00:00",
-      "lastmod": "2026-02-03T03:00:22.550Z",
+      "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
+      "lastmod": "2026-02-10T00:45:49.372Z",
       "local_path": "desktop.md",
       "title": "Claude Code on desktop",
       "url": "https://code.claude.com/docs/en/desktop"
@@ -122,8 +122,8 @@
     },
     "https://code.claude.com/docs/en/fast-mode": {
       "description": "Get faster Opus 4.6 responses in Claude Code by toggling fast mode.",
-      "last_sync_time": "2026-02-08T00:42:21.568767+00:00",
-      "lastmod": "2026-02-07T18:24:11.262Z",
+      "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
+      "lastmod": "2026-02-10T21:04:12.403Z",
       "local_path": "fast-mode.md",
       "title": "Speed up responses with fast mode",
       "url": "https://code.claude.com/docs/en/fast-mode"
@@ -298,8 +298,8 @@
     },
     "https://code.claude.com/docs/en/permissions": {
       "description": "Control what Claude Code can access and do with fine-grained permission rules, modes, and managed policies.",
-      "last_sync_time": "2026-02-06T00:31:47.443060+00:00",
-      "lastmod": "2026-02-05T17:50:17.318Z",
+      "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
+      "lastmod": "2026-02-10T22:02:21.884Z",
       "local_path": "permissions.md",
       "title": "Configure permissions",
       "url": "https://code.claude.com/docs/en/permissions"
@@ -352,10 +352,18 @@
       "title": "Security",
       "url": "https://code.claude.com/docs/en/security"
     },
+    "https://code.claude.com/docs/en/server-managed-settings": {
+      "description": "Centrally configure Claude Code for your organization through server-delivered settings, without requiring device management infrastructure.",
+      "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
+      "lastmod": "2026-02-10T22:02:21.927Z",
+      "local_path": "server-managed-settings.md",
+      "title": "Configure server-managed settings (public beta)",
+      "url": "https://code.claude.com/docs/en/server-managed-settings"
+    },
     "https://code.claude.com/docs/en/settings": {
       "description": "Configure Claude Code with global and project-level settings, and environment variables.",
-      "last_sync_time": "2026-02-07T00:32:23.419995+00:00",
-      "lastmod": "2026-02-07T00:03:23.804Z",
+      "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
+      "lastmod": "2026-02-10T22:02:21.936Z",
       "local_path": "settings.md",
       "title": "Claude Code settings",
       "url": "https://code.claude.com/docs/en/settings"
@@ -434,8 +442,8 @@
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-10T00:39:51.072443+00:00",
-    "last_url_count": 54
+    "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
+    "last_url_count": 55
   },
   "version": 1
 }

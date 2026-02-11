@@ -73,6 +73,7 @@ This is a mirror of the [Claude Code documentation](https://code.claude.com/docs
 - [Authentication](authentication.md) - Learn how to configure user authentication and credential management for Claude Code in your organization.
 - [Claude Code in Slack](slack.md) - Delegate coding tasks directly from your Slack workspace
 - [Claude Code on the web](claude-code-on-the-web.md) - Run Claude Code tasks asynchronously on secure cloud infrastructure
+- [Configure server-managed settings (public beta)](server-managed-settings.md) - Centrally configure Claude Code for your organization through server-delivered settings, without requiring device management infrastructure.
 - [Create and distribute a plugin marketplace](plugin-marketplaces.md) - Build and host plugin marketplaces to distribute Claude Code extensions across teams and communities.
 - [Create custom subagents](sub-agents.md) - Create and use specialized AI subagents in Claude Code for task-specific workflows and improved context management.
 - [Customize keyboard shortcuts](keybindings.md) - Customize keyboard shortcuts in Claude Code with a keybindings configuration file.
