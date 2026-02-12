@@ -50,8 +50,8 @@
     },
     "https://code.claude.com/docs/en/chrome": {
       "description": "Connect Claude Code to your Chrome browser to test web apps, debug with console logs, automate form filling, and extract data from web pages.",
-      "last_sync_time": "2026-02-05T00:34:20.107054+00:00",
-      "lastmod": "2026-02-04T20:50:41.565Z",
+      "last_sync_time": "2026-02-12T00:34:09.119432+00:00",
+      "lastmod": "2026-02-11T18:20:29.725Z",
       "local_path": "chrome.md",
       "title": "Use Claude Code with Chrome (beta)",
       "url": "https://code.claude.com/docs/en/chrome"
@@ -354,8 +354,8 @@
     },
     "https://code.claude.com/docs/en/server-managed-settings": {
       "description": "Centrally configure Claude Code for your organization through server-delivered settings, without requiring device management infrastructure.",
-      "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
-      "lastmod": "2026-02-10T22:02:21.927Z",
+      "last_sync_time": "2026-02-12T00:34:09.119432+00:00",
+      "lastmod": "2026-02-11T21:26:40.786Z",
       "local_path": "server-managed-settings.md",
       "title": "Configure server-managed settings (public beta)",
       "url": "https://code.claude.com/docs/en/server-managed-settings"
@@ -442,7 +442,7 @@
     }
   },
   "meta": {
-    "last_sync_time": "2026-02-11T00:39:20.323307+00:00",
+    "last_sync_time": "2026-02-12T00:34:09.119432+00:00",
     "last_url_count": 55
   },
   "version": 1
